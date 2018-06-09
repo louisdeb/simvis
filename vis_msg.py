@@ -172,11 +172,14 @@ for line in args.file:
 
       print "nextnode", nextnode
 
+      if nextnode == "101":
+        path = path.replace("101: (101,", "")
+
       if currentnode == "501" or currentnode == "502":
         route.append(nodepaths[int(currentnode)][0])
         endofpath = True
 
-      print "route", route
+      # print "route", route
 
     xs = map(getx, route)
     ys = map(gety, route)
