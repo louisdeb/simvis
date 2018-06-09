@@ -97,7 +97,9 @@ args = parser.parse_args()
 nodepaths = {}
 nodepaths[101] = ['51.525802,-0.148273'] 
 nodepaths[501] = ['51.539107,-0.164588']
-nodepaths[502] = ['51.540135,-0.162260']
+nodepaths[502] = ['51.540030,-0.164623']
+nodepaths[503] = ['51.540170,-0.162402']
+nodepaths[504] = ['51.539242,-0.162445'] 
 
 nodestarttimes = {}
 nodevelocities = {}
@@ -175,7 +177,8 @@ for line in args.file:
       if nextnode == "101":
         path = path.replace("101: (101,", "")
 
-      if currentnode == "501" or currentnode == "502":
+      if currentnode in ["501", "502", "503", "504"]:
+        print "arrived at basestation", currentnode
         route.append(nodepaths[int(currentnode)][0])
         endofpath = True
 
