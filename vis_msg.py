@@ -153,6 +153,7 @@ for line in args.file:
     currentnode = "101"
     receivetime = "08:00:00.000000"
     endofpath = False
+    index = 0
     while not endofpath:
       if not currentnode + "," in path:
         break
@@ -173,8 +174,18 @@ for line in args.file:
       print "transfertime", transfertime
 
       # now we want to get all points between receivetime and transfertime that currentnode travelled
-      route.extend(get_route(int(currentnode), receivetime, transfertime))
+      #route.extend(get_route(int(currentnode), receivetime, transfertime))
+      partroute = get_route(int(currentnode), receivetime, transfertime)
+      if index > 0:
+        prevroute = route[index-1]
+        nextpoint = [partroute[0]]
+        prevroute = prevroute + nextpoint
+        route[index-1] = prevroute
 
+      index = index + 1
+      route.append(partroute)
+      print "route", route
+    
       currentnode = nextnode
       receivetime = transfertime
 
@@ -185,14 +196,20 @@ for line in args.file:
 
       if currentnode in ["501", "502", "503", "504", "505"]:
         print "arrived at basestation", currentnode
-        route.append(nodepaths[int(currentnode)][0])
+        prevpoint = route[index-1][len(route[index-1])-1]
+        partroute = [prevpoint, nodepaths[int(currentnode)][0]]
+        route.append(partroute)
         endofpath = True
 
       # print "route", route
 
-    xs = map(getx, route)
-    ys = map(gety, route)
-    m.plot(xs,ys,latlon=True) 
+    for partroute in route:
+      print "drawing part", partroute
+      while len(partroute) < 3:
+        partroute = partroute + [partroute[len(partroute)-1]]
+      xs = map(getx, partroute)
+      ys = map(gety, partroute)
+      m.plot(xs,ys,latlon=True) 
 
 plt.title("Mercator Projection")
 plt.show()
