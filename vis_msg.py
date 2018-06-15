@@ -5,6 +5,8 @@ import datetime
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
+from geopy.distance import vincenty
+from datetime import timedelta
 
 def getx(s):
   i = s.find(',') + 1
@@ -19,60 +21,119 @@ def gety(s):
 def get_time(timestr):
   return datetime.datetime.strptime(timestr, "%H:%M:%S.%f")
 
-# haversine distance: https://www.movable-type.co.uk/scripts/latlong.html
-def get_distance(a, b):
-  i = a.find(",")
-  lat1 = float(a[:i]) 
-  lon1 = float(a[i+1:]) 
-  i = b.find(",")
-  lat2 = float(b[:i]) 
-  lon2 = float(b[i+1:]) 
+def get_point(p):
+  i = p.find(",")
+  lat = float(p[:i])
+  lon = float(p[i+1:])
+  return (lat,lon)
 
-  phi1 = math.radians(lat1)
-  phi2 = math.radians(lat2)
-  dphi = math.radians(lat2 - lat1)
-  dlambda = math.radians(lon2 - lon1) 
+def point_to_str(p):
+  lat = p[0]
+  lon = p[1]
+  return str(lat) + ',' + str(lon)
 
-  a = math.sin(dphi/2) * math.sin(dphi/2) + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda/2) * math.sin(dlambda/2)
-  c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a)) 
-  return 6371 * c
-
-def get_route(nodeid, start, end):
+def get_route(nodeid, origintime, start, end):
   if nodeid == 101:
     return [nodepaths[101][0]]
 
-  print "start", start, "end", end
+  path = nodepaths[nodeid]
+  route = []
 
+  origintime = get_time(origintime)
   start = get_time(start)
   end = get_time(end)
-  route = []
-  time = (end - start).total_seconds()
+  
+  print "start", start, "end", end, "origintime", origintime
 
-  print "get_route", nodeid
-  print "start time", start, "end time", end, "diff", time
-  print nodepaths[nodeid]
+  v = nodevelocities[nodeid]
 
-  # time to travel between each point
+  time_to_receive = start - origintime
+  print "finding point at ttr", time_to_receive, "for node", nodeid
+
   i = 0
-  while time > 0:
-    if i+1 >= len(nodepaths[nodeid]):
-      route.append(nodepaths[nodeid][i])
+  while time_to_receive > timedelta(seconds=0):
+    if i+1 == len(path):
+      route.append(path[i])
       break
 
-    print "i", i
-    print "time left", time
-    d = get_distance(nodepaths[nodeid][i], nodepaths[nodeid][i+1])
-    print "distance", d
-    t = d / nodevelocities[nodeid]
-    print "time to travel this distance", t
-    route.append(nodepaths[nodeid][i])
-    if time - t <= 0:
-      actual_d = d * time / t
-      # add this distance to the current position in the direction pos_i -> pos_i+1
-      # add this new point to the route
+    p1 = get_point(path[i])
+    p2 = get_point(path[i+1])
+    d = vincenty(p1,p2).km
+    t = timedelta(seconds=(d/v))
 
-    time -= t
+    print "-- took", t, "ttr =", time_to_receive - t
+
+    if time_to_receive == t: #receive message at next point
+      route.append(point_to_str(p2))
+    elif time_to_receive < t: #receive message before next point
+      origin_lat = p1[0]
+      origin_lon = p1[1]
+      diff_lat = p2[0]-p1[0]
+      diff_lon = p2[1]-p1[1]
+      dt = time_to_receive.total_seconds() / t.total_seconds()
+      lat = origin_lat + diff_lat * dt
+      lon = origin_lon + diff_lon * dt
+      print "received at lat",lat,"lon",lon
+      route.append(point_to_str((lat,lon)))
+
     i += 1
+    time_to_receive -= t
+
+  # now route is the first point at which the message is received 
+
+  time_to_transfer = end - start
+
+  print "ttt", time_to_transfer
+  
+  # deal with between receive and next point in path
+  p1 = get_point(route[0])
+  p2 = get_point(path[i])
+  d = vincenty(p1,p2).km
+  t = timedelta(seconds=(d/v))
+
+  # the point may be before this time
+  print "finding point at ttt", time_to_transfer, "for node", nodeid
+
+  if time_to_transfer < t:
+    origin_lat = p1[0]
+    origin_lon = p1[1]
+    diff_lat = p2[0]-p1[0]
+    diff_lon = p2[1]-p1[1]
+    dt = time_to_transfer.total_seconds() / t.total_seconds()
+    lat = origin_lat + diff_lat * dt
+    lon = origin_lon + diff_lon * dt
+    route.append(point_to_str((lat,lon)))
+  else:
+    route.append(path[i])
+
+  time_to_transfer -= t
+
+  while time_to_transfer > timedelta(seconds=0):
+    if i+1 == len(path):
+      route.append(path[i])
+      break
+
+    p1 = get_point(path[i])
+    p2 = get_point(path[i+1])
+    d = vincenty(p1,p2).km
+    t = timedelta(seconds=(d/v))
+
+    if time_to_transfer == t:
+      route.append(point_to_str(p2))
+    elif time_to_transfer < t:
+      origin_lat = p1[0]
+      origin_lon = p1[1]
+      diff_lat = p2[0]-p1[0]
+      diff_lon = p2[1]-p1[1]
+      dt = time_to_transfer.total_seconds() / t.total_seconds()
+      lat = origin_lat + diff_lat * dt
+      lon = origin_lon + diff_lon * dt
+      route.append(point_to_str((lat,lon)))
+    else:
+      route.append(path[i+1])
+
+    i += 1
+    time_to_transfer -= t
 
   return route
 
@@ -130,17 +191,12 @@ for line in args.file:
     coords = points.split(", ")
     nodepaths[nodeid] = coords
     
-#    i = line.find("'start_datetime':"
-#    nodestarttimes[nodeid]
-
     i = line.find("'velocity':") + 12
     j = line.find(",", i)
     velocity = line[:j]
     velocity = velocity[i:]
     nodevelocities[nodeid] = float(velocity)
 
-    # let's say starttime is 0
-    
   elif "101 0 gen" in line and not "---msg is" in line:
     k = line.find("path:") + 7
     l = line.find("}", k)
@@ -151,7 +207,8 @@ for line in args.file:
 
     route = []
     currentnode = "101"
-    receivetime = "08:00:00.000000"
+    origintime = "08:00:00.000000"
+    receivetime = origintime
     endofpath = False
     index = 0
     while not endofpath:
@@ -170,12 +227,7 @@ for line in args.file:
       transfertime = path[:j]
       transfertime = transfertime[i:]
 
-      print "currentnode", currentnode
-      print "transfertime", transfertime
-
-      # now we want to get all points between receivetime and transfertime that currentnode travelled
-      #route.extend(get_route(int(currentnode), receivetime, transfertime))
-      partroute = get_route(int(currentnode), receivetime, transfertime)
+      partroute = get_route(int(currentnode), origintime, receivetime, transfertime)
       if index > 0:
         prevroute = route[index-1]
         nextpoint = [partroute[0]]
@@ -184,12 +236,9 @@ for line in args.file:
 
       index = index + 1
       route.append(partroute)
-      print "route", route
     
       currentnode = nextnode
       receivetime = transfertime
-
-      print "nextnode", nextnode
 
       if nextnode == "101":
         path = path.replace("101: (101,", "")
@@ -201,10 +250,7 @@ for line in args.file:
         route.append(partroute)
         endofpath = True
 
-      # print "route", route
-
     for partroute in route:
-      print "drawing part", partroute
       while len(partroute) < 3:
         partroute = partroute + [partroute[len(partroute)-1]]
       xs = map(getx, partroute)
