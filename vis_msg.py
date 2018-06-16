@@ -61,8 +61,6 @@ def get_route(nodeid, origintime, start, end):
     d = vincenty(p1,p2).km
     t = timedelta(seconds=(d/v))
 
-    print "-- took", t, "ttr =", time_to_receive - t
-
     if time_to_receive == t: #receive message at next point
       route.append(point_to_str(p2))
     elif time_to_receive < t: #receive message before next point
@@ -250,6 +248,15 @@ for line in args.file:
         route.append(partroute)
         endofpath = True
 
+    # print single coloured message
+    wholeroute = []
+    for partroute in route:
+      wholeroute.extend(partroute) 
+    xs = map(getx, wholeroute)
+    ys = map(gety, wholeroute)
+    #m.plot(xs,ys,latlon=True)
+
+    # print multicoloured message
     for partroute in route:
       while len(partroute) < 3:
         partroute = partroute + [partroute[len(partroute)-1]]
