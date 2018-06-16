@@ -1,0 +1,926 @@
+{'msgSensorLimit': 0, 'walkNum': 1, 'bsProbability': 0.6, 'avgSpeed': 3.0, 'nodeAsSensor': False, 'transportType': 'foot', 'walkStopNum': 10, 'avgSpeedDev': 0.5, 'radioType': 'ble', 'msgLimitPerc': 1.0, 'radio': {'comRangeN2BS': 0.1, 'comRangeN2N': 0.1}, 'bsCount': 5, 'fetchPaths': True, 'msgLimit': -1, 'startUniform': False, 'runSim': True, 'senseInterval': 9999999, 'expBorder': 'regentsPark', 'routing': 'naturalnet'}
+{'start_datetime': 1466492400.0, 'points': [(51.53099337291131, -0.14984859008342355), (51.53590393822219, -0.14948163582500196), (51.540595226507364, -0.1595011262655411), (51.53835659019401, -0.1661388474225306), (51.536128905100476, -0.15920249372864134), (51.54001607472065, -0.1652031654615687), (51.523894154362, -0.15520041753369598), (51.5255855178267, -0.1472400053049729), (51.53927765895447, -0.1554300671276931), (51.525267819323645, -0.14587280209949038)], 'dist': 0, 'duration': -1, 'velocity': 0.002525176594837113, 'nodeAsSensor': False, 'rental_id': 1000, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 11.8781034487 velocity: 0.00252517659484 duration: 4703.87040376
+pois len: 6
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue []
+---first if
+---second if
+node 1000 has score 23.4907555353
+---node 1000 sending to node 1000
+node 1000 has score 23.3749643046
+---node 1000 sending to node 1000
+node 1000 has score 23.2603309797
+---node 1000 sending to node 1000
+node 1000 has score 23.1468382756
+---node 1000 sending to node 1000
+node 1000 has score 23.1641557922
+---node 1000 sending to node 1000
+node 1000 has score 23.1814094696
+---node 1000 sending to node 1000
+node 1000 has score 23.1985987602
+---node 1000 sending to node 1000
+node 1000 has score 23.2157231162
+---node 1000 sending to node 1000
+node 1000 has score 23.2327819896
+---node 1000 sending to node 1000
+node 1000 has score 23.2497748321
+---node 1000 sending to node 1000
+node 1000 has score 23.2667010952
+---node 1000 sending to node 1000
+node 1000 has score 23.2835602303
+---node 1000 sending to node 1000
+node 1000 has score 23.3003516886
+---node 1000 sending to node 1000
+node 1000 has score 23.3170749215
+---node 1000 sending to node 1000
+node 1000 has score 23.33372938
+---node 1000 sending to node 1000
+node 1000 has score 23.3503145155
+---node 1000 sending to node 1000
+node 1000 has score 23.3668297792
+---node 1000 sending to node 1000
+node 1000 has score 23.3832746224
+---node 1000 sending to node 1000
+node 1000 has score 23.3996484967
+---node 1000 sending to node 1000
+node 1000 has score 23.4159508537
+---node 1000 sending to node 1000
+node 1000 has score 23.5667209626
+---node 1000 sending to node 1000
+node 1000 has score 23.7194826868
+---node 1000 sending to node 1000
+node 1000 has score 23.8742757401
+---node 1000 sending to node 1000
+node 1000 has score 24.0311408989
+---node 1000 sending to node 1000
+node 1000 has score 24.0497931815
+---node 1000 sending to node 1000
+node 1000 has score 24.0683623082
+---node 1000 sending to node 1000
+node 1000 has score 24.0683623082
+---node 1000 sending to node 1000
+node 1000 has score 24.0801599779
+---node 1000 sending to node 1000
+node 1000 has score 24.1010563524
+---node 1000 sending to node 1000
+node 1000 has score 24.1210766435
+---node 1000 sending to node 1000
+node 1000 has score 24.1318083939
+---node 1000 sending to node 1000
+node 1000 has score 24.1448782474
+---node 1000 sending to node 1000
+node 1000 has score 24.152213791
+---node 1000 sending to node 1000
+node 1000 has score 24.1499312191
+---node 1000 sending to node 1000
+node 1000 has score 24.2034562844
+---node 1000 sending to node 1000
+node 1000 has score 24.2963570358
+---node 1000 sending to node 1000
+node 1000 has score 24.3899858342
+---node 1000 sending to node 1000
+node 1000 has score 24.4843512536
+---node 1000 sending to node 1000
+node 1000 has score 24.5794620032
+---node 1000 sending to node 1000
+node 1000 has score 24.6753269293
+---node 1000 sending to node 1000
+node 1000 has score 24.7719550187
+---node 1000 sending to node 1000
+node 1000 has score 24.8693554012
+---node 1000 sending to node 1000
+node 1000 has score 24.9675373524
+---node 1000 sending to node 1000
+node 1000 has score 25.1375089357
+---node 1000 sending to node 1000
+node 1000 has score 25.3098487359
+---node 1000 sending to node 1000
+node 1000 has score 25.4019481955
+---node 1000 sending to node 1000
+node 1000 has score 25.4947310304
+---node 1000 sending to node 1000
+node 1000 has score 25.5882048567
+---node 1000 sending to node 1000
+node 1000 has score 25.6823774038
+---node 1000 sending to node 1000
+node 1000 has score 25.7772565164
+---node 1000 sending to node 1000
+node 1000 has score 25.872850157
+---node 1000 sending to node 1000
+node 1000 has score 25.9691664075
+---node 1000 sending to node 1000
+node 1000 has score 26.0662134721
+---node 1000 sending to node 1000
+node 1000 has score 26.1104502746
+---node 1000 sending to node 1000
+node 1000 has score 26.226115358
+---node 1000 sending to node 1000
+node 1000 has score 26.3237400609
+---node 1000 sending to node 1000
+node 1000 has score 26.4221066306
+---node 1000 sending to node 1000
+node 1000 has score 26.5212235532
+---node 1000 sending to node 1000
+node 1000 has score 26.6210994446
+---node 1000 sending to node 1000
+node 1000 has score 26.7217430528
+---node 1000 sending to node 1000
+node 1000 has score 26.8231632613
+---node 1000 sending to node 1000
+node 1000 has score 26.9253690905
+---node 1000 sending to node 1000
+node 1000 has score 27.0283697013
+---node 1000 sending to node 1000
+node 1000 has score 27.0540852787
+---node 1000 sending to node 1000
+node 1000 has score 27.0795462964
+---node 1000 sending to node 1000
+node 1000 has score 27.1011847457
+---node 1000 sending to node 1000
+node 1000 has score 27.1227353158
+---node 1000 sending to node 1000
+node 1000 has score 27.1689422196
+---node 1000 sending to node 1000
+node 1000 has score 27.2148800433
+---node 1000 sending to node 1000
+node 1000 has score 27.276515769
+---node 1000 sending to node 1000
+node 1000 has score 27.3381098698
+---node 1000 sending to node 1000
+node 1000 has score 27.420199217
+---node 1000 sending to node 1000
+node 1000 has score 27.5025748744
+---node 1000 sending to node 1000
+node 1000 has score 27.587247143
+---node 1000 sending to node 1000
+node 1000 has score 27.6723213095
+---node 1000 sending to node 1000
+node 1000 has score 27.7577987308
+---node 1000 sending to node 1000
+node 1000 has score 27.8436807401
+---node 1000 sending to node 1000
+node 1000 has score 27.9468047188
+---node 1000 sending to node 1000
+node 1000 has score 28.0505422132
+---node 1000 sending to node 1000
+node 1000 has score 28.1548964399
+---node 1000 sending to node 1000
+node 1000 has score 28.2598705876
+---node 1000 sending to node 1000
+node 1000 has score 28.3573497509
+---node 1000 sending to node 1000
+node 1000 has score 28.4553298111
+---node 1000 sending to node 1000
+node 1000 has score 28.5901375094
+---node 1000 sending to node 1000
+node 1000 has score 28.7258853571
+---node 1000 sending to node 1000
+node 1000 has score 28.8125170882
+---node 1000 sending to node 1000
+node 1000 has score 28.8994546765
+---node 1000 sending to node 1000
+node 1000 has score 28.894758399
+---node 1000 sending to node 1000
+node 1000 has score 28.8825962564
+---node 1000 sending to node 1000
+node 1000 has score 28.8540980647
+---node 1000 sending to node 1000
+node 1000 has score 28.8253353451
+---node 1000 sending to node 1000
+node 1000 has score 28.7963108032
+---node 1000 sending to node 1000
+node 1000 has score 28.7670271539
+---node 1000 sending to node 1000
+node 1000 has score 28.9999252753
+---node 1000 sending to node 1000
+node 1000 has score 29.2365309101
+---node 1000 sending to node 1000
+node 1000 has score 29.4769291198
+---node 1000 sending to node 1000
+node 1000 has score 29.7212074352
+---node 1000 sending to node 1000
+node 1000 has score 29.9694559391
+---node 1000 sending to node 1000
+node 1000 has score 30.2217673526
+---node 1000 sending to node 1000
+node 1000 has score 30.4782371236
+---node 1000 sending to node 1000
+node 1000 has score 30.7389635194
+---node 1000 sending to node 1000
+node 1000 has score 31.0040477215
+---node 1000 sending to node 1000
+node 1000 has score 31.2735939245
+---node 1000 sending to node 1000
+node 1000 has score 31.5477094375
+---node 1000 sending to node 1000
+node 1000 has score 31.8265047902
+---node 1000 sending to node 1000
+node 1000 has score 32.1100938412
+---node 1000 sending to node 1000
+node 1000 has score 32.3985938907
+---node 1000 sending to node 1000
+node 1000 has score 32.6921257966
+---node 1000 sending to node 1000
+node 1000 has score 32.9908140947
+---node 1000 sending to node 1000
+node 1000 has score 33.2947871219
+---node 1000 sending to node 1000
+node 1000 has score 33.6041771441
+---node 1000 sending to node 1000
+node 1000 has score 33.9191204874
+---node 1000 sending to node 1000
+node 1000 has score 34.2397576733
+---node 1000 sending to node 1000
+node 1000 has score 34.5662335576
+---node 1000 sending to node 1000
+node 1000 has score 34.8986974739
+---node 1000 sending to node 1000
+node 1000 has score 35.2373033794
+---node 1000 sending to node 1000
+node 1000 has score 35.582210006
+---node 1000 sending to node 1000
+node 1000 has score 35.933581014
+---node 1000 sending to node 1000
+node 1000 has score 36.2915851493
+---node 1000 sending to node 1000
+node 1000 has score 36.6563964044
+---node 1000 sending to node 1000
+node 1000 has score 37.0281941819
+---node 1000 sending to node 1000
+node 1000 has score 37.4071634607
+---node 1000 sending to node 1000
+node 1000 has score 37.7934949648
+---node 1000 sending to node 1000
+node 1000 has score 38.1873853341
+---node 1000 sending to node 1000
+node 1000 has score 38.5890372958
+---node 1000 sending to node 1000
+node 1000 has score 38.7092857268
+---node 1000 sending to node 1000
+node 1000 has score 38.8291884971
+---node 1000 sending to node 1000
+node 1000 has score 39.0241354839
+---node 1000 sending to node 1000
+node 1000 has score 39.4001461746
+---node 1000 sending to node 1000
+node 1000 has score 39.783280654
+---node 1000 sending to node 1000
+node 1000 has score 40.1737344767
+---node 1000 sending to node 1000
+node 1000 has score 40.5717100371
+---node 1000 sending to node 1000
+node 1000 has score 40.9564114506
+---node 1000 sending to node 1000
+node 1000 has score 41.2264300352
+---node 1000 sending to node 1000
+node 1000 has score 41.4999998906
+---node 1000 sending to node 1000
+node 1000 has score 41.5333870194
+---node 1000 sending to node 1000
+node 1000 has score 41.6826506592
+---node 1000 sending to node 1000
+node 1000 has score 41.8320762154
+---node 1000 sending to node 1000
+node 1000 has score 42.0925744646
+---node 1000 sending to node 1000
+node 1000 has score 42.3563556764
+---node 1000 sending to node 1000
+node 1000 has score 42.7629208156
+---node 1000 sending to node 1000
+node 1000 has score 43.177063662
+---node 1000 sending to node 1000
+node 1000 has score 43.5989857067
+---node 1000 sending to node 1000
+node 1000 has score 44.0288951052
+---node 1000 sending to node 1000
+node 1000 has score 44.0390337082
+---node 1000 sending to node 1000
+node 1000 has score 44.0484869817
+---node 1000 sending to node 1000
+node 1000 has score 44.0572535765
+---node 1000 sending to node 1000
+node 1000 has score 44.0653322389
+---node 1000 sending to node 1000
+node 1000 has score 44.3563255237
+---node 1000 sending to node 1000
+node 1000 has score 44.6509936372
+---node 1000 sending to node 1000
+node 1000 has score 44.9494015189
+---node 1000 sending to node 1000
+node 1000 has score 45.2516154921
+---node 1000 sending to node 1000
+node 1000 has score 45.5212169873
+---node 1000 sending to node 1000
+node 1000 has score 46.0977317677
+---node 1000 sending to node 1000
+node 1000 has score 46.6882329497
+---node 1000 sending to node 1000
+node 1000 has score 47.2931947874
+---node 1000 sending to node 1000
+node 1000 has score 47.9131107565
+---node 1000 sending to node 1000
+node 1000 has score 48.5484943397
+---node 1000 sending to node 1000
+node 1000 has score 49.1998798286
+---node 1000 sending to node 1000
+node 1000 has score 49.86782314
+---node 1000 sending to node 1000
+node 1000 has score 50.5529026433
+---node 1000 sending to node 1000
+node 1000 has score 50.9130250043
+---node 1000 sending to node 1000
+node 1000 has score 51.2779613204
+---node 1000 sending to node 1000
+node 1000 has score 51.6477991961
+---node 1000 sending to node 1000
+node 1000 has score 52.0226280527
+---node 1000 sending to node 1000
+node 1000 has score 52.4694879358
+---node 1000 sending to node 1000
+node 1000 has score 52.9234884338
+---node 1000 sending to node 1000
+node 1000 has score 53.3847824841
+---node 1000 sending to node 1000
+node 1000 has score 53.853526612
+---node 1000 sending to node 1000
+node 1000 has score 54.3298809887
+---node 1000 sending to node 1000
+node 1000 has score 54.8140094887
+---node 1000 sending to node 1000
+node 1000 has score 55.306079743
+---node 1000 sending to node 1000
+node 1000 has score 55.806263189
+---node 1000 sending to node 1000
+node 1000 has score 56.3147351152
+---node 1000 sending to node 1000
+node 1000 has score 56.8316747022
+---node 1000 sending to node 1000
+node 1000 has score 57.3572650558
+---node 1000 sending to node 1000
+node 1000 has score 57.8916932351
+---node 1000 sending to node 1000
+node 1000 has score 58.435150272
+---node 1000 sending to node 1000
+node 1000 has score 58.9878311811
+---node 1000 sending to node 1000
+node 1000 has score 59.5499349607
+---node 1000 sending to node 1000
+node 1000 has score 60.1216645821
+---node 1000 sending to node 1000
+node 1000 has score 60.6724464381
+---node 1000 sending to node 1000
+node 1000 has score 61.2322338965
+---node 1000 sending to node 1000
+node 1000 has score 61.8012092322
+---node 1000 sending to node 1000
+node 1000 has score 62.3795577704
+---node 1000 sending to node 1000
+node 1000 has score 62.9674678174
+---node 1000 sending to node 1000
+node 1000 has score 63.5651305765
+---node 1000 sending to node 1000
+node 1000 has score 64.1727400428
+---node 1000 sending to node 1000
+node 1000 has score 64.7904928818
+---node 1000 sending to node 1000
+node 1000 has score 65.343096071
+---node 1000 sending to node 1000
+node 1000 has score 65.9039132633
+---node 1000 sending to node 1000
+node 1000 has score 66.4730876892
+---node 1000 sending to node 1000
+node 1000 has score 67.0507640627
+---node 1000 sending to node 1000
+node 1000 has score 68.1383540337
+---node 1000 sending to node 1000
+node 1000 has score 69.2562169718
+---node 1000 sending to node 1000
+node 1000 has score 70.4052837405
+---node 1000 sending to node 1000
+node 1000 has score 71.5864915635
+---node 1000 sending to node 1000
+node 1000 has score 71.6803076711
+---node 1000 sending to node 1000
+node 1000 has score 71.7719176935
+---node 1000 sending to node 1000
+node 1000 has score 71.861294371
+---node 1000 sending to node 1000
+node 1000 has score 71.9484109281
+---node 1000 sending to node 1000
+node 1000 has score 73.1389693644
+---node 1000 sending to node 1000
+node 1000 has score 74.3622621076
+---node 1000 sending to node 1000
+node 1000 has score 75.6191827221
+---node 1000 sending to node 1000
+node 1000 has score 76.9106109114
+---node 1000 sending to node 1000
+node 1000 has score 78.2374042062
+---node 1000 sending to node 1000
+node 1000 has score 79.6003881969
+---node 1000 sending to node 1000
+node 1000 has score 81.0003451043
+---node 1000 sending to node 1000
+node 1000 has score 82.4380004683
+---node 1000 sending to node 1000
+node 1000 has score 82.3422795447
+---node 1000 sending to node 1000
+node 1000 has score 82.2430761389
+---node 1000 sending to node 1000
+node 1000 has score 82.1404294077
+---node 1000 sending to node 1000
+node 1000 has score 82.0343796056
+---node 1000 sending to node 1000
+node 1000 has score 83.5552821909
+---node 1000 sending to node 1000
+node 1000 has score 85.1166168107
+---node 1000 sending to node 1000
+node 1000 has score 86.7186898864
+---node 1000 sending to node 1000
+node 1000 has score 88.3616285983
+---node 1000 sending to node 1000
+node 1000 has score 89.658238008
+---node 1000 sending to node 1000
+node 1000 has score 90.9806039395
+---node 1000 sending to node 1000
+node 1000 has score 92.3286990379
+---node 1000 sending to node 1000
+node 1000 has score 93.7024029158
+---node 1000 sending to node 1000
+node 1000 has score 94.3869593072
+---node 1000 sending to node 1000
+node 1000 has score 95.1255773274
+---node 1000 sending to node 1000
+node 1000 has score 95.855666688
+---node 1000 sending to node 1000
+node 1000 has score 96.5760773121
+---node 1000 sending to node 1000
+node 1000 has score 97.2856204941
+---node 1000 sending to node 1000
+node 1000 has score 98.2046327556
+---node 1000 sending to node 1000
+node 1000 has score 99.0364158512
+---node 1000 sending to node 1000
+node 1000 has score 99.8407704648
+---node 1000 sending to node 1000
+node 1000 has score 1.79440389438
+---node 1000 sending to node 1000
+node 1000 has score 3.3361128385
+---node 1000 sending to node 1000
+node 1000 has score 4.91356748318
+---node 1000 sending to node 1000
+node 1000 has score 6.73014805798
+---node 1000 sending to node 1000
+node 1000 has score 8.89642708497
+---node 1000 sending to node 1000
+node 1000 has score 11.1420008809
+---node 1000 sending to node 1000
+node 1000 has score 12.5415240926
+---node 1000 sending to node 1000
+node 1000 has score 13.9710023742
+---node 1000 sending to node 1000
+node 1000 has score 15.4311403153
+---node 1000 sending to node 1000
+node 1000 has score 16.9226460588
+---node 1000 sending to node 1000
+node 1000 has score 18.4462291204
+---node 1000 sending to node 1000
+node 1000 has score 20.0025978695
+---node 1000 sending to node 1000
+node 1000 has score 21.5924566317
+---node 1000 sending to node 1000
+node 1000 has score 23.21650237
+---node 1000 sending to node 1000
+node 1000 has score 25.5101233128
+---node 1000 sending to node 1000
+node 1000 has score 27.8737680918
+---node 1000 sending to node 1000
+node 1000 has score 30.3094745562
+---node 1000 sending to node 1000
+node 1000 has score 32.8192233686
+---node 1000 sending to node 1000
+node 1000 has score 35.2527994089
+---node 1000 sending to node 1000
+node 1000 has score 37.7578331119
+---node 1000 sending to node 1000
+node 1000 has score 40.3361362255
+---node 1000 sending to node 1000
+node 1000 has score 42.9894243437
+---node 1000 sending to node 1000
+node 1000 has score 45.5085182866
+---node 1000 sending to node 1000
+node 1000 has score 48.1007217877
+---node 1000 sending to node 1000
+node 1000 has score 50.7681066557
+---node 1000 sending to node 1000
+node 1000 has score 53.5127021722
+---node 1000 sending to node 1000
+node 1000 has score 56.4866856407
+---node 1000 sending to node 1000
+node 1000 has score 59.5583992605
+---node 1000 sending to node 1000
+node 1000 has score 62.7312998635
+---node 1000 sending to node 1000
+node 1000 has score 66.008848503
+---node 1000 sending to node 1000
+node 1000 has score 69.4482533275
+---node 1000 sending to node 1000
+node 1000 has score 73.0145643959
+---node 1000 sending to node 1000
+node 1000 has score 76.7135264608
+---node 1000 sending to node 1000
+node 1000 has score 80.5510784042
+---node 1000 sending to node 1000
+node 1000 has score 83.5598190521
+---node 1000 sending to node 1000
+node 1000 has score 86.6570688915
+---node 1000 sending to node 1000
+node 1000 has score 89.8459812174
+---node 1000 sending to node 1000
+node 1000 has score 93.1297887296
+---node 1000 sending to node 1000
+node 1000 has score 98.4506393986
+---node 1000 sending to node 1000
+node 1000 has score 4.05400833679
+---node 1000 sending to node 1000
+node 1000 has score 8.04781857495
+---node 1000 sending to node 1000
+node 1000 has score 12.1920032048
+---node 1000 sending to node 1000
+node 1000 has score 15.866887889
+---node 1000 sending to node 1000
+node 1000 has score 19.6678158189
+---node 1000 sending to node 1000
+node 1000 has score 26.2891420513
+---node 1000 sending to node 1000
+node 1000 has score 33.3186117964
+---node 1000 sending to node 1000
+node 1000 has score 40.7948077148
+---node 1000 sending to node 1000
+node 1000 has score 48.761283029
+---node 1000 sending to node 1000
+node 1000 has score 54.2333550202
+---node 1000 sending to node 1000
+node 1000 has score 59.9509318468
+---node 1000 sending to node 1000
+node 1000 has score 69.5315901702
+---node 1000 sending to node 1000
+node 1000 has score 79.8431342594
+---node 1000 sending to node 1000
+node 1000 has score 91.4656098481
+---node 1000 sending to node 1000
+node 1000 has score 4.09523616677
+---node 1000 sending to node 1000
+node 1000 has score 13.7973635264
+---node 1000 sending to node 1000
+node 1000 has score 23.9361983355
+---node 1000 sending to node 1000
+node 1000 has score 34.7399860181
+---node 1000 sending to node 1000
+node 1000 has score 46.2749996927
+---node 1000 sending to node 1000
+node 1000 has score 58.616408398
+---node 1000 sending to node 1000
+node 1000 has score 70.7589675411
+---node 1000 sending to node 1000
+node 1000 has score 83.7373788298
+---node 1000 sending to node 1000
+node 1000 has score 86.8140812135
+---node 1000 sending to node 1000
+node 1000 has score 86.8513147304
+---node 1000 sending to node 1000
+node 1000 has score 83.844477916
+---node 1000 sending to node 1000
+node 1000 has score 77.9986766894
+---node 1000 sending to node 1000
+node 1000 has score 69.69117211
+---node 1000 sending to node 1000
+node 1000 has score 59.4081130986
+---node 1000 sending to node 1000
+node 1000 has score 47.674713638
+---node 1000 sending to node 1000
+node 1000 has score 34.9956783823
+---node 1000 sending to node 1000
+node 1000 has score 34.3242387886
+---node 1000 sending to node 1000
+node 1000 has score 28.326737337
+---node 1000 sending to node 1000
+node 1000 has score 10.3364546359
+---node 1000 sending to node 1000
+node 1000 has score 16.0175257289
+---node 1000 sending to node 1000
+node 1000 has score 21.9648834187
+---node 1000 sending to node 1000
+node 1000 has score 27.9872220497
+---node 1000 sending to node 1000
+node 1000 has score 34.0711589579
+---node 1000 sending to node 1000
+node 1000 has score 40.2009747789
+---node 1000 sending to node 1000
+node 1000 has score 48.2627600216
+---node 1000 sending to node 1000
+node 1000 has score 56.1814355829
+---node 1000 sending to node 1000
+node 1000 has score 63.8718408375
+---node 1000 sending to node 1000
+node 1000 has score 71.2393525845
+---node 1000 sending to node 1000
+node 1000 has score 75.8057522823
+---node 1000 sending to node 1000
+node 1000 has score 79.4264939786
+---node 1000 sending to node 1000
+node 1000 has score 82.012411606
+---node 1000 sending to node 1000
+node 1000 has score 83.4969712846
+---node 1000 sending to node 1000
+node 1000 has score 79.8781679349
+---node 1000 sending to node 1000
+node 1000 has score 75.5984465488
+---node 1000 sending to node 1000
+node 1000 has score 70.7279686998
+---node 1000 sending to node 1000
+node 1000 has score 65.3414257048
+---node 1000 sending to node 1000
+node 1000 has score 59.5153118648
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1000 which has queue [<PoI.Msg object at 0x114047f90>]
+(101, 1000): [('08:47:55.798561', '08:48:10.365518', 14.566957473754883), ('08:49:03.068429', '08:50:11.287302', 68.2188732624054)]
+1000 08:00:00.000000 09:18:23.870404
+queueLen: 1000: ([0, 1, 0], 1, 0.18600583090379008, 0)
+queueLen: 101: ([1], 1, 1.0, 1)
+msg sent count: [] | []
+msgs:
+101 0 gen: 08:00:00.000000 del: 09:03:01.355167 dur: 3781.35516715 pLen: 3 dlt: 0 path: {1000: (101, 08:48:03.534499), 505: (1000, 09:03:01.355167), 101: (101, 08:00:00.000000)}

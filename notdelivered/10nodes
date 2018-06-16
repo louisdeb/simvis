@@ -1,0 +1,4178 @@
+{'msgSensorLimit': 0, 'walkNum': 10, 'bsProbability': 0.6, 'avgSpeed': 3.0, 'nodeAsSensor': False, 'transportType': 'foot', 'walkStopNum': 10, 'avgSpeedDev': 0.5, 'radioType': 'ble', 'msgLimitPerc': 1.0, 'radio': {'comRangeN2BS': 0.1, 'comRangeN2N': 0.1}, 'bsCount': 5, 'fetchPaths': True, 'msgLimit': -1, 'startUniform': False, 'runSim': True, 'senseInterval': 9999999, 'expBorder': 'regentsPark', 'routing': 'naturalnet'}
+{'start_datetime': 1466492400.0, 'points': [(51.53548107422344, -0.15193442588022144), (51.52816454221061, -0.15108123178624308), (51.530417210138594, -0.16416801625799599), (51.53112530649585, -0.15227112440210647), (51.53516805634918, -0.15257635988822474), (51.53170690578678, -0.16399309591869812), (51.53390150329003, -0.1602920938672579), (51.53611569276025, -0.15031399001294463), (51.52571041379003, -0.15850871616256296), (51.53054353694449, -0.15046501688089023)], 'dist': 0, 'duration': -1, 'velocity': 0.00269729404746023, 'nodeAsSensor': False, 'rental_id': 1000, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 11.1245782594 velocity: 0.00269729404746 duration: 4124.34761049
+{'start_datetime': 1466492400.0, 'points': [(51.53856601259945, -0.15476521143697136), (51.53651053704041, -0.15171067803702368), (51.52665595358782, -0.15276138828981545), (51.52728175011629, -0.14811060718778893), (51.53931003823516, -0.16593896694352106), (51.536216453305826, -0.16537006814110466), (51.530433812575914, -0.1533639366778531), (51.53796400218108, -0.16493824845878788), (51.53164588604871, -0.16058230302334944), (51.528847319279656, -0.16395279630865991)], 'dist': 0, 'duration': -1, 'velocity': 0.003248824761119044, 'nodeAsSensor': False, 'rental_id': 1001, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 10.7860150363 velocity: 0.00324882476112 duration: 3319.97439977
+{'start_datetime': 1466492400.0, 'points': [(51.53320322285817, -0.15903466793471674), (51.528864631704046, -0.1558158106152067), (51.530721837094326, -0.1611638973984062), (51.53108177670774, -0.1547685056036909), (51.53448344820509, -0.15745207827741045), (51.528784866824104, -0.15435072233267813), (51.53237016742307, -0.1546462727807405), (51.527404829573626, -0.15227674155536297), (51.53140974958501, -0.14712692851834122), (51.532782931209525, -0.1590043167914315)], 'dist': 0, 'duration': -1, 'velocity': 0.0023524063496071033, 'nodeAsSensor': False, 'rental_id': 1002, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 9.78709411898 velocity: 0.00235240634961 duration: 4160.46067917
+{'start_datetime': 1466492400.0, 'points': [(51.52641321980879, -0.15258575782371087), (51.53020788189562, -0.14802645885635698), (51.538222656716904, -0.16636225664492613), (51.540698762567175, -0.16236775815594834), (51.530785508390714, -0.16297117635607317), (51.53359436100211, -0.15531499312950744), (51.532835790292815, -0.1507346070185867), (51.527756422786204, -0.15884719332219538), (51.52963956342942, -0.16339112880519446), (51.525358959295545, -0.15807389496805732)], 'dist': 0, 'duration': -1, 'velocity': 0.0031451923660675797, 'nodeAsSensor': False, 'rental_id': 1003, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 8.58048054664 velocity: 0.00314519236607 duration: 2728.12583396
+{'start_datetime': 1466492400.0, 'points': [(51.532068295549884, -0.15672494409649462), (51.53485990586932, -0.15937423211787585), (51.53925240129426, -0.1561035205908266), (51.53897476368028, -0.16190967665272335), (51.52718107808211, -0.1476386124396903), (51.531451324245815, -0.16128761223249327), (51.52729568626043, -0.1603043015106872), (51.53383659040344, -0.16308903310982054), (51.525761000982804, -0.1462955854817428), (51.52697126906426, -0.15492409675024568)], 'dist': 0, 'duration': -1, 'velocity': 0.0030552454720033993, 'nodeAsSensor': False, 'rental_id': 1004, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 9.45344702252 velocity: 0.003055245472 duration: 3094.16939135
+{'start_datetime': 1466492400.0, 'points': [(51.5350667116848, -0.15373107047390483), (51.52428498734758, -0.15250742138300322), (51.527257513259684, -0.14796446026490764), (51.526792736782035, -0.15698727561395032), (51.52486190001262, -0.15249065664209008), (51.532650177423044, -0.16329377541882792), (51.53402643089391, -0.15545045535307886), (51.52737473348141, -0.14984596889511714), (51.53109833724615, -0.14725641803857958), (51.534256486000096, -0.1550479689432221)], 'dist': 0, 'duration': -1, 'velocity': 0.003624858870009918, 'nodeAsSensor': False, 'rental_id': 1005, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 9.58496199205 velocity: 0.00362485887001 duration: 2644.23039235
+{'start_datetime': 1466492400.0, 'points': [(51.53455077628252, -0.15845355920908558), (51.539344630217784, -0.16025486822046536), (51.53683944354887, -0.16435362215203161), (51.52969821136498, -0.16117288422996434), (51.52505108140438, -0.15041306206492464), (51.53169050270143, -0.16528704815876946), (51.53342536245135, -0.15750678498768053), (51.524529253072366, -0.15042606772131978), (51.528882410659286, -0.15405883696690442), (51.539270791447485, -0.16600506464686887)], 'dist': 0, 'duration': -1, 'velocity': 0.0028070449374989225, 'nodeAsSensor': False, 'rental_id': 1006, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 10.9953608897 velocity: 0.0028070449375 duration: 3917.05909045
+{'start_datetime': 1466492400.0, 'points': [(51.5321482594559, -0.1604495676457653), (51.53396459382893, -0.14911377590232597), (51.527461562452764, -0.16146333827782564), (51.53505078969736, -0.15217487526617368), (51.53073405469516, -0.15520727098019313), (51.536037221266206, -0.15334640938961702), (51.53074481528275, -0.15644317322414455), (51.54133669188258, -0.16195601405185722), (51.5388453784873, -0.15832521153324705), (51.5265890968642, -0.15074156393107543)], 'dist': 0, 'duration': -1, 'velocity': 0.003188622087751286, 'nodeAsSensor': False, 'rental_id': 1007, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 12.2312789575 velocity: 0.00318862208775 duration: 3835.91363945
+{'start_datetime': 1466492400.0, 'points': [(51.535532513798074, -0.15230149174350102), (51.52933018445553, -0.16358920202092161), (51.52898450488488, -0.15259097460906182), (51.537611000479366, -0.16221642099850322), (51.534112583540754, -0.1598723362428471), (51.53398559243258, -0.16440195857062675), (51.532167278501916, -0.15838871042427455), (51.5255738664183, -0.15208072789900748), (51.53874752215849, -0.15460719534599615), (51.53965613832613, -0.16278498405059075)], 'dist': 0, 'duration': -1, 'velocity': 0.0022355624677763935, 'nodeAsSensor': False, 'rental_id': 1008, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 9.36136115505 velocity: 0.00223556246778 duration: 4187.47464675
+{'start_datetime': 1466492400.0, 'points': [(51.53870526053968, -0.1602627382799848), (51.52952555610846, -0.15727241899975267), (51.53631153850078, -0.16413181658299195), (51.53374281412391, -0.15292501535210867), (51.53544356747605, -0.15953382657203594), (51.532052703879465, -0.16176442666252763), (51.533701584345266, -0.14966602752250005), (51.52898422349171, -0.1514489173194464), (51.534579028753946, -0.16015164450175687), (51.53157727896851, -0.15898793260835337)], 'dist': 0, 'duration': -1, 'velocity': 0.0026951082230995435, 'nodeAsSensor': False, 'rental_id': 1009, 'stop_datetime': 0, 'sensorOptions': {'senseInterval': 9999999}}
+distance: 9.45346786064 velocity: 0.0026951082231 duration: 3507.63942598
+pois len: 6
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1001 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1009 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1006 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+---first if
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+---second if
+node 1005 has score 23.6591805916
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.7105794149
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.7619146164
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.8131819807
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.863948081
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.9146523249
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.9347056302
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.9546747935
+---node 1005 sending to node 1005
+node 1005 has score 23.9732032341
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 23.993908387
+---node 1005 sending to node 1005
+node 1005 has score 24.0114279294
+---node 1005 sending to node 1005
+node 1005 has score 24.0203900177
+---node 1005 sending to node 1005
+node 1005 has score 24.030638313
+---node 1005 sending to node 1005
+node 1005 has score 24.0346739668
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 24.1421652815
+---node 1005 sending to node 1005
+node 1005 has score 24.2506397767
+---node 1005 sending to node 1005
+node 1005 has score 24.4056384243
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 24.5626669277
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 24.7217653804
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 24.882974937
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 25.0463378495
+---node 1005 sending to node 1005
+node 1005 has score 25.2118975031
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 25.3796984549
+---node 1005 sending to node 1005
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1004 which has queue []
+node 1005 has score 25.5497864737
+---node 1005 sending to node 1005
+node 1005 has score 25.6314467466
+---node 1005 sending to node 1005
+node 1005 has score 25.7204150517
+---node 1005 sending to node 1005
+node 1005 has score 25.8191017495
+---node 1005 sending to node 1005
+node 1005 has score 25.9185592497
+---node 1005 sending to node 1005
+node 1005 has score 25.9401519166
+---node 1005 sending to node 1005
+node 1005 has score 25.9616622498
+---node 1005 sending to node 1005
+node 1005 has score 26.0854813461
+---node 1005 sending to node 1005
+node 1005 has score 26.2105068892
+---node 1005 sending to node 1005
+node 1005 has score 26.3367565797
+---node 1005 sending to node 1005
+node 1005 has score 26.4642484662
+---node 1005 sending to node 1005
+node 1005 has score 26.5930009531
+---node 1005 sending to node 1005
+node 1005 has score 26.72303281
+---node 1005 sending to node 1005
+node 1005 has score 26.8543631802
+---node 1005 sending to node 1005
+node 1005 has score 26.9870115908
+---node 1005 sending to node 1005
+node 1005 has score 27.1110148747
+---node 1005 sending to node 1005
+node 1005 has score 27.2361791121
+---node 1005 sending to node 1005
+node 1005 has score 27.362520632
+---node 1005 sending to node 1005
+node 1005 has score 27.4900560703
+---node 1005 sending to node 1005
+node 1005 has score 27.6188023766
+---node 1005 sending to node 1005
+node 1005 has score 27.7487768217
+---node 1005 sending to node 1005
+node 1005 has score 27.8799970054
+---node 1005 sending to node 1005
+node 1005 has score 28.0124808642
+---node 1005 sending to node 1005
+node 1005 has score 28.2179048396
+---node 1005 sending to node 1005
+node 1005 has score 28.4264076714
+---node 1005 sending to node 1005
+node 1005 has score 28.638058952
+---node 1005 sending to node 1005
+node 1005 has score 28.8529303826
+---node 1005 sending to node 1005
+node 1005 has score 28.8879028516
+---node 1005 sending to node 1005
+node 1005 has score 28.9224312887
+---node 1005 sending to node 1005
+node 1005 has score 28.7275215669
+---node 1005 sending to node 1005
+node 1005 has score 28.5352558975
+---node 1005 sending to node 1005
+node 1005 has score 28.3455809707
+---node 1005 sending to node 1005
+node 1005 has score 28.1584448964
+---node 1005 sending to node 1005
+node 1005 has score 28.1073954072
+---node 1005 sending to node 1005
+node 1005 has score 28.1073954072
+---node 1005 sending to node 1005
+node 1005 has score 28.1584448964
+---node 1005 sending to node 1005
+node 1005 has score 28.3455809707
+---node 1005 sending to node 1005
+node 1005 has score 28.5352558975
+---node 1005 sending to node 1005
+node 1005 has score 28.7275215669
+---node 1005 sending to node 1005
+node 1005 has score 28.9224312887
+---node 1005 sending to node 1005
+node 1005 has score 28.8879028516
+---node 1005 sending to node 1005
+node 1005 has score 28.8529303826
+---node 1005 sending to node 1005
+node 1005 has score 29.0884078342
+---node 1005 sending to node 1005
+node 1005 has score 29.3278132519
+---node 1005 sending to node 1005
+node 1005 has score 29.5712454983
+---node 1005 sending to node 1005
+node 1005 has score 29.8188067728
+---node 1005 sending to node 1005
+node 1005 has score 30.0706027532
+---node 1005 sending to node 1005
+node 1005 has score 30.3267427444
+---node 1005 sending to node 1005
+node 1005 has score 30.5873398353
+---node 1005 sending to node 1005
+node 1005 has score 30.852511063
+---node 1005 sending to node 1005
+node 1005 has score 31.0783780085
+---node 1005 sending to node 1005
+node 1005 has score 31.307617722
+---node 1005 sending to node 1005
+node 1005 has score 31.5403061168
+---node 1005 sending to node 1005
+node 1005 has score 31.7765213955
+---node 1005 sending to node 1005
+node 1005 has score 31.9193589545
+---node 1005 sending to node 1005
+node 1005 has score 31.89316311
+---node 1005 sending to node 1005
+node 1005 has score 31.8667926119
+---node 1005 sending to node 1005
+node 1005 has score 31.8402489777
+---node 1005 sending to node 1005
+node 1005 has score 31.8135337281
+---node 1005 sending to node 1005
+node 1005 has score 31.786648386
+---node 1005 sending to node 1005
+node 1005 has score 31.7595944772
+---node 1005 sending to node 1005
+node 1005 has score 31.7323735294
+---node 1005 sending to node 1005
+node 1005 has score 31.7049870724
+---node 1005 sending to node 1005
+node 1005 has score 31.6774366378
+---node 1005 sending to node 1005
+node 1005 has score 31.6497237589
+---node 1005 sending to node 1005
+node 1005 has score 31.6218499704
+---node 1005 sending to node 1005
+node 1005 has score 31.5938168082
+---node 1005 sending to node 1005
+node 1005 has score 31.5656258094
+---node 1005 sending to node 1005
+node 1005 has score 31.537278512
+---node 1005 sending to node 1005
+node 1005 has score 31.5087764543
+---node 1005 sending to node 1005
+node 1005 has score 31.4801211755
+---node 1005 sending to node 1005
+node 1005 has score 31.4464438898
+---node 1005 sending to node 1005
+node 1005 has score 31.4125535728
+---node 1005 sending to node 1005
+node 1005 has score 31.3784527626
+---node 1005 sending to node 1005
+node 1005 has score 31.3441439974
+---node 1005 sending to node 1005
+node 1005 has score 31.309629815
+---node 1005 sending to node 1005
+node 1005 has score 31.2749127524
+---node 1005 sending to node 1005
+node 1005 has score 31.2399953454
+---node 1005 sending to node 1005
+node 1005 has score 31.2048801284
+---node 1005 sending to node 1005
+node 1005 has score 31.1695696338
+---node 1005 sending to node 1005
+node 1005 has score 31.1340663916
+---node 1005 sending to node 1005
+node 1005 has score 31.0983729291
+---node 1005 sending to node 1005
+node 1005 has score 31.0624917706
+---node 1005 sending to node 1005
+node 1005 has score 31.0264254367
+---node 1005 sending to node 1005
+node 1005 has score 30.9901764443
+---node 1005 sending to node 1005
+node 1005 has score 30.9537473063
+---node 1005 sending to node 1005
+node 1005 has score 30.9171405306
+---node 1005 sending to node 1005
+node 1005 has score 30.8663183897
+---node 1005 sending to node 1005
+node 1005 has score 30.8061828902
+---node 1005 sending to node 1005
+node 1005 has score 30.7685282934
+---node 1005 sending to node 1005
+node 1005 has score 30.730740659
+---node 1005 sending to node 1005
+node 1005 has score 30.6928221407
+---node 1005 sending to node 1005
+node 1005 has score 30.6547748839
+---node 1005 sending to node 1005
+node 1005 has score 30.6166010257
+---node 1005 sending to node 1005
+node 1005 has score 30.5783026944
+---node 1005 sending to node 1005
+node 1005 has score 30.5398820095
+---node 1005 sending to node 1005
+node 1005 has score 30.5013410817
+---node 1005 sending to node 1005
+node 1005 has score 30.4685295057
+   checking send to node 1001 score 29.9212642024
+---node 1005 sending to node 1005
+node 1005 has score 30.4356013093
+   checking send to node 1001 score 0.0193335741867
+---node 1005 sending to node 1005
+node 1005 has score 30.4025580874
+   checking send to node 1001 score 30.0266583129
+---node 1005 sending to node 1005
+node 1005 has score 30.3694014304
+   checking send to node 1001 score 30.0266583129
+---node 1005 sending to node 1005
+node 1005 has score 30.3361329241
+   checking send to node 1001 score 0.0193335626882
+---node 1005 sending to node 1005
+node 1005 has score 30.3027541494
+   checking send to node 1001 score 0.0193335626882
+---node 1005 sending to node 1005
+node 1005 has score 30.2692666822
+   checking send to node 1001 score 30.1314723283
+---node 1005 sending to node 1005
+node 1005 has score 30.2356720933
+   checking send to node 1001 score 30.1836511475
+---node 1005 sending to node 1005
+node 1005 has score 30.1836511475
+   checking send to node 1001 score 30.1836511475
+---node 1005 sending to node 1001
+---first if
+---sent message
+node 1005 has score 30.1314723283
+   checking send to node 1001 score 30.2356720933
+---node 1005 sending to node 1001
+---sent message
+node 1005 has score 30.0791399547
+   checking send to node 1001 score 30.2692666822
+---node 1005 sending to node 1001
+---sent message
+node 1005 has score 30.0266583129
+   checking send to node 1001 score 30.3027541494
+---node 1005 sending to node 1001
+---second if
+---sent message
+node 1001 has score 30.3361329241
+   checking send to node 1005 score 30.0266583129
+---node 1001 sending to node 1001
+node 1001 has score 30.3694014304
+   checking send to node 1005 score 0.0193335741867
+---node 1001 sending to node 1001
+node 1001 has score 30.4025580874
+   checking send to node 1005 score 29.9212642024
+---node 1001 sending to node 1001
+node 1001 has score 30.4356013093
+   checking send to node 1005 score 29.9212642024
+---node 1001 sending to node 1001
+node 1001 has score 30.4685295057
+   checking send to node 1005 score 0.0193335856849
+---node 1001 sending to node 1001
+node 1001 has score 30.5013410817
+   checking send to node 1005 score 29.8153236117
+---node 1001 sending to node 1001
+node 1001 has score 30.5398820095
+---node 1001 sending to node 1001
+node 1001 has score 30.5783026944
+---node 1001 sending to node 1001
+node 1001 has score 30.6166010257
+---node 1001 sending to node 1001
+node 1001 has score 30.6547748839
+---node 1001 sending to node 1001
+node 1001 has score 30.6928221406
+---node 1001 sending to node 1001
+node 1001 has score 30.730740659
+---node 1001 sending to node 1001
+node 1001 has score 30.7685282934
+---node 1001 sending to node 1001
+node 1001 has score 30.8061828902
+---node 1001 sending to node 1001
+node 1001 has score 30.8663183897
+---node 1001 sending to node 1001
+node 1001 has score 30.9171405306
+---node 1001 sending to node 1001
+node 1001 has score 30.9537473063
+---node 1001 sending to node 1001
+node 1001 has score 30.9901764444
+---node 1001 sending to node 1001
+node 1001 has score 31.0264254367
+---node 1001 sending to node 1001
+node 1001 has score 31.0624917706
+---node 1001 sending to node 1001
+node 1001 has score 31.0983729292
+---node 1001 sending to node 1001
+node 1001 has score 31.1340663916
+---node 1001 sending to node 1001
+node 1001 has score 31.1695696338
+---node 1001 sending to node 1001
+node 1001 has score 31.2048801284
+---node 1001 sending to node 1001
+node 1001 has score 31.2399953454
+---node 1001 sending to node 1001
+node 1001 has score 31.2749127524
+---node 1001 sending to node 1001
+node 1001 has score 31.309629815
+---node 1001 sending to node 1001
+node 1001 has score 31.3441439974
+---node 1001 sending to node 1001
+node 1001 has score 31.3784527626
+---node 1001 sending to node 1001
+node 1001 has score 31.4125535728
+---node 1001 sending to node 1001
+node 1001 has score 31.4464438898
+---node 1001 sending to node 1001
+node 1001 has score 31.4801211755
+---node 1001 sending to node 1001
+node 1001 has score 31.5087764543
+---node 1001 sending to node 1001
+node 1001 has score 31.5372785119
+---node 1001 sending to node 1001
+node 1001 has score 31.5656258094
+---node 1001 sending to node 1001
+node 1001 has score 31.5938168082
+---node 1001 sending to node 1001
+node 1001 has score 31.6218499703
+---node 1001 sending to node 1001
+node 1001 has score 31.6497237588
+---node 1001 sending to node 1001
+node 1001 has score 31.6774366378
+---node 1001 sending to node 1001
+node 1001 has score 31.7049870724
+---node 1001 sending to node 1001
+node 1001 has score 31.7323735294
+---node 1001 sending to node 1001
+node 1001 has score 31.7595944772
+---node 1001 sending to node 1001
+node 1001 has score 31.786648386
+---node 1001 sending to node 1001
+node 1001 has score 31.8135337281
+---node 1001 sending to node 1001
+node 1001 has score 31.8402489777
+---node 1001 sending to node 1001
+node 1001 has score 31.8667926119
+---node 1001 sending to node 1001
+node 1001 has score 31.89316311
+---node 1001 sending to node 1001
+node 1001 has score 31.9193589545
+---node 1001 sending to node 1001
+node 1001 has score 31.7765213955
+---node 1001 sending to node 1001
+node 1001 has score 31.5403061169
+---node 1001 sending to node 1001
+node 1001 has score 31.307617722
+---node 1001 sending to node 1001
+node 1001 has score 31.0783780085
+---node 1001 sending to node 1001
+node 1001 has score 30.852511063
+---node 1001 sending to node 1001
+node 1001 has score 30.5873398353
+---node 1001 sending to node 1001
+node 1001 has score 30.3267427444
+---node 1001 sending to node 1001
+node 1001 has score 30.0706027531
+---node 1001 sending to node 1001
+node 1001 has score 29.8188067728
+---node 1001 sending to node 1001
+node 1001 has score 29.5712454983
+---node 1001 sending to node 1001
+node 1001 has score 29.3278132519
+---node 1001 sending to node 1001
+node 1001 has score 29.0884078341
+---node 1001 sending to node 1001
+node 1001 has score 28.8529303826
+---node 1001 sending to node 1001
+node 1001 has score 28.638058952
+---node 1001 sending to node 1001
+node 1001 has score 28.4264076714
+---node 1001 sending to node 1001
+node 1001 has score 28.2179048396
+---node 1001 sending to node 1001
+node 1001 has score 28.0124808642
+---node 1001 sending to node 1001
+node 1001 has score 28.0124808642
+---node 1001 sending to node 1001
+node 1001 has score 28.2179048396
+---node 1001 sending to node 1001
+node 1001 has score 28.4264076714
+---node 1001 sending to node 1001
+node 1001 has score 28.638058952
+---node 1001 sending to node 1001
+node 1001 has score 28.8529303826
+---node 1001 sending to node 1001
+node 1001 has score 29.0884078342
+---node 1001 sending to node 1001
+node 1001 has score 29.3278132519
+---node 1001 sending to node 1001
+node 1001 has score 29.5712454983
+---node 1001 sending to node 1001
+node 1001 has score 29.8188067728
+---node 1001 sending to node 1001
+node 1001 has score 30.0706027532
+---node 1001 sending to node 1001
+node 1001 has score 30.3267427444
+---node 1001 sending to node 1001
+node 1001 has score 30.5873398353
+---node 1001 sending to node 1001
+node 1001 has score 30.852511063
+---node 1001 sending to node 1001
+node 1001 has score 31.0783780085
+---node 1001 sending to node 1001
+node 1001 has score 31.307617722
+---node 1001 sending to node 1001
+node 1001 has score 31.5403061168
+---node 1001 sending to node 1001
+node 1001 has score 31.7765213955
+---node 1001 sending to node 1001
+node 1001 has score 31.9193589545
+---node 1001 sending to node 1001
+node 1001 has score 31.89316311
+---node 1001 sending to node 1001
+node 1001 has score 31.8667926119
+---node 1001 sending to node 1001
+node 1001 has score 31.8402489777
+---node 1001 sending to node 1001
+node 1001 has score 31.8135337281
+---node 1001 sending to node 1001
+node 1001 has score 31.786648386
+---node 1001 sending to node 1001
+node 1001 has score 31.7595944772
+---node 1001 sending to node 1001
+node 1001 has score 31.7323735294
+---node 1001 sending to node 1001
+node 1001 has score 31.7049870724
+---node 1001 sending to node 1001
+node 1001 has score 31.6774366378
+---node 1001 sending to node 1001
+node 1001 has score 31.6497237589
+---node 1001 sending to node 1001
+node 1001 has score 31.6218499704
+---node 1001 sending to node 1001
+node 1001 has score 31.5938168082
+---node 1001 sending to node 1001
+node 1001 has score 31.5656258094
+---node 1001 sending to node 1001
+node 1001 has score 31.537278512
+---node 1001 sending to node 1001
+node 1001 has score 31.5087764543
+---node 1001 sending to node 1001
+node 1001 has score 31.4801211755
+---node 1001 sending to node 1001
+node 1001 has score 31.4464438898
+---node 1001 sending to node 1001
+node 1001 has score 31.4125535728
+---node 1001 sending to node 1001
+node 1001 has score 31.3784527626
+---node 1001 sending to node 1001
+node 1001 has score 31.3441439974
+---node 1001 sending to node 1001
+node 1001 has score 31.309629815
+---node 1001 sending to node 1001
+node 1001 has score 31.2749127524
+---node 1001 sending to node 1001
+node 1001 has score 31.2399953454
+---node 1001 sending to node 1001
+node 1001 has score 31.2048801284
+---node 1001 sending to node 1001
+node 1001 has score 31.1695696338
+---node 1001 sending to node 1001
+node 1001 has score 31.1340663916
+---node 1001 sending to node 1001
+node 1001 has score 31.0983729291
+---node 1001 sending to node 1001
+node 1001 has score 31.0624917706
+---node 1001 sending to node 1001
+node 1001 has score 31.0264254367
+---node 1001 sending to node 1001
+node 1001 has score 30.9901764443
+---node 1001 sending to node 1001
+node 1001 has score 30.9537473063
+---node 1001 sending to node 1001
+node 1001 has score 30.9171405306
+---node 1001 sending to node 1001
+node 1001 has score 31.1201490194
+---node 1001 sending to node 1001
+node 1001 has score 31.2692666827
+   checking send to node 1004 score 33.344102655
+---node 1001 sending to node 1004
+---first if
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 31.4198391287
+   checking send to node 1004 score 0.0193332167343
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 31.5781722913
+   checking send to node 1004 score 0.0193332167343
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 31.7381217584
+   checking send to node 1004 score 0.0193332314147
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 31.9013738331
+   checking send to node 1004 score 0.0193332460951
+---node 1001 sending to node 1001
+node 1001 has score 32.066328877
+   checking send to node 1004 score 0.019333273173
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 32.2407936536
+   checking send to node 1004 score 0.0193332971594
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 32.4171444467
+   checking send to node 1004 score 0.0193332971594
+---node 1001 sending to node 1001
+node 1001 has score 32.6388747292
+   checking send to node 1004 score 0.0193333164749
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 32.8925329429
+   checking send to node 1004 score 0.0193333357904
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 33.0316672195
+   checking send to node 1004 score 0.0193333542226
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 33.1719524845
+   checking send to node 1004 score 0.0193333726549
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 33.344102655
+   checking send to node 1004 score 31.5781722913
+---node 1001 sending to node 1001
+node 1001 has score 33.5179192233
+   checking send to node 1004 score 0.0193334091504
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 33.6795996428
+   checking send to node 1004 score 31.2692666827
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 33.8426494983
+   checking send to node 1004 score 30.9171405306
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 33.9689565623
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.0960015912
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.2411616061
+---node 1001 sending to node 1001
+node 1001 has score 34.3872517251
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.4937788803
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.6005914405
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.714902746
+---node 1001 sending to node 1001
+node 1001 has score 34.8293109578
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.891152131
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.9524109304
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.9630262307
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.9728599547
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 34.9514189879
+---node 1001 sending to node 1001
+node 1001 has score 34.9294102138
+---node 1001 sending to node 1001
+node 1001 has score 34.8881323112
+---node 1001 sending to node 1001
+node 1001 has score 34.8464633277
+---node 1001 sending to node 1001
+node 1001 has score 34.776183841
+---node 1001 sending to node 1001
+node 1001 has score 34.7057460585
+---node 1001 sending to node 1001
+node 1001 has score 34.6235216689
+---node 1001 sending to node 1001
+node 1001 has score 34.5413693579
+---node 1001 sending to node 1001
+node 1001 has score 34.4415265314
+---node 1001 sending to node 1001
+node 1001 has score 34.3420222206
+---node 1001 sending to node 1001
+node 1001 has score 34.2431003943
+---node 1001 sending to node 1001
+node 1001 has score 34.1445035796
+---node 1001 sending to node 1001
+node 1001 has score 34.0325870903
+---node 1001 sending to node 1001
+node 1001 has score 33.9211874242
+---node 1001 sending to node 1001
+node 1001 has score 33.7974269788
+---node 1001 sending to node 1001
+node 1001 has score 33.6743828919
+---node 1001 sending to node 1001
+node 1001 has score 33.5399491548
+---node 1001 sending to node 1001
+node 1001 has score 33.406431681
+---node 1001 sending to node 1001
+node 1001 has score 33.2630390534
+---node 1001 sending to node 1001
+node 1001 has score 33.1207923981
+---node 1001 sending to node 1001
+node 1001 has score 32.9697193404
+---node 1001 sending to node 1001
+node 1001 has score 32.8200377435
+---node 1001 sending to node 1001
+node 1001 has score 33.0220215797
+---node 1001 sending to node 1001
+node 1001 has score 33.2265434172
+---node 1001 sending to node 1001
+node 1001 has score 33.3342897607
+---node 1001 sending to node 1001
+node 1001 has score 33.4427471607
+---node 1001 sending to node 1001
+node 1001 has score 33.5519226798
+---node 1001 sending to node 1001
+node 1001 has score 33.6618234745
+---node 1001 sending to node 1001
+node 1001 has score 33.7724567968
+---node 1001 sending to node 1001
+node 1001 has score 33.8838299955
+---node 1001 sending to node 1001
+node 1001 has score 33.9959505181
+---node 1001 sending to node 1001
+node 1001 has score 34.1088259125
+---node 1001 sending to node 1001
+node 1001 has score 34.2224638285
+---node 1001 sending to node 1001
+node 1001 has score 34.3368720196
+---node 1001 sending to node 1001
+node 1001 has score 34.4520583447
+---node 1001 sending to node 1001
+node 1001 has score 34.5680307702
+---node 1001 sending to node 1001
+node 1001 has score 34.6847973715
+---node 1001 sending to node 1001
+node 1001 has score 34.8023663349
+---node 1001 sending to node 1001
+node 1001 has score 34.9207459596
+---node 1001 sending to node 1001
+node 1001 has score 35.03994466
+---node 1001 sending to node 1001
+node 1001 has score 35.1315517256
+---node 1001 sending to node 1001
+node 1001 has score 35.2924718113
+---node 1001 sending to node 1001
+node 1001 has score 35.4548928906
+---node 1001 sending to node 1001
+node 1001 has score 35.6188360642
+---node 1001 sending to node 1001
+node 1001 has score 35.7843228304
+---node 1001 sending to node 1001
+node 1001 has score 35.9513750941
+---node 1001 sending to node 1001
+node 1001 has score 36.1200151769
+---node 1001 sending to node 1001
+node 1001 has score 36.2902658265
+---node 1001 sending to node 1001
+node 1001 has score 36.4621502274
+---node 1001 sending to node 1001
+node 1001 has score 36.6755679742
+---node 1001 sending to node 1001
+node 1001 has score 36.8915316139
+---node 1001 sending to node 1001
+node 1001 has score 37.0538389218
+---node 1001 sending to node 1001
+node 1001 has score 37.2175992043
+---node 1001 sending to node 1001
+node 1001 has score 37.3828320613
+---node 1001 sending to node 1001
+node 1001 has score 37.5495574463
+---node 1001 sending to node 1001
+node 1001 has score 37.717795675
+---node 1001 sending to node 1001
+node 1001 has score 37.8875674337
+---node 1001 sending to node 1001
+node 1001 has score 38.0588937874
+---node 1001 sending to node 1001
+node 1001 has score 38.2317961887
+---node 1001 sending to node 1001
+node 1001 has score 38.4598266657
+---node 1001 sending to node 1001
+node 1001 has score 38.6906279197
+---node 1001 sending to node 1001
+node 1001 has score 38.9242507634
+---node 1001 sending to node 1001
+node 1001 has score 39.1607472601
+---node 1001 sending to node 1001
+node 1001 has score 39.4001707615
+---node 1001 sending to node 1001
+node 1001 has score 39.6425759484
+---node 1001 sending to node 1001
+node 1001 has score 39.8880188721
+---node 1001 sending to node 1001
+node 1001 has score 40.1365569978
+---node 1001 sending to node 1001
+node 1001 has score 40.3882492493
+---node 1001 sending to node 1001
+node 1001 has score 40.6431560554
+---node 1001 sending to node 1001
+node 1001 has score 40.9013393988
+---node 1001 sending to node 1001
+node 1001 has score 41.1628628657
+---node 1001 sending to node 1001
+node 1001 has score 41.4277916985
+---node 1001 sending to node 1001
+node 1001 has score 41.6961928499
+---node 1001 sending to node 1001
+node 1001 has score 41.9681350394
+---node 1001 sending to node 1001
+node 1001 has score 42.2436888116
+---node 1001 sending to node 1001
+node 1001 has score 42.6639694414
+---node 1001 sending to node 1001
+node 1001 has score 43.0927931179
+---node 1001 sending to node 1001
+node 1001 has score 43.5304230104
+   checking send to node 1008 score 0.0193320217533
+---node 1001 sending to node 1001
+node 1001 has score 43.9771332101
+   checking send to node 1008 score 0.0193319952946
+---node 1001 sending to node 1001
+node 1001 has score 44.4332093018
+   checking send to node 1008 score 0.0193319763525
+---node 1001 sending to node 1001
+node 1001 has score 44.8989489731
+   checking send to node 1008 score 0.0193319763525
+---node 1001 sending to node 1001
+node 1001 has score 45.3746626626
+   checking send to node 1008 score 0.0193319574105
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 45.8606742498
+   checking send to node 1008 score 0.0193319384685
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 46.3573217901
+   checking send to node 1008 score 0.0193319195266
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 46.8649582999
+   checking send to node 1008 score 0.0193319005847
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 47.3839525923
+   checking send to node 1008 score 0.0193318816428
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 47.9146901721
+   checking send to node 1008 score 0.0193318627009
+---node 1001 sending to node 1001
+node 1001 has score 48.4575741893
+   checking send to node 1008 score 53.7849918278
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 49.0130264617
+   checking send to node 1008 score 54.2751468325
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 49.5814885674
+   checking send to node 1008 score 54.7743984948
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 50.1634230159
+   checking send to node 1008 score 0.0193317869339
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 50.5889805804
+   checking send to node 1000 score 99.94098296
+   checking send to node 1008 score 0.0193317679923
+---node 1001 sending to node 1000
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 51.0218901283
+   checking send to node 1000 score 99.9411476928
+   checking send to node 1008 score 0.0193317490507
+---node 1001 sending to node 1000
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 51.462343847
+   checking send to node 1000 score 0.0193319259644
+   checking send to node 1008 score 0.0193317301091
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 51.9105406815
+   checking send to node 1000 score 0.0193319259644
+   checking send to node 1008 score 0.0193317301091
+---node 1001 sending to node 1001
+node 1001 has score 52.366686634
+   checking send to node 1000 score 0.0193319336681
+   checking send to node 1008 score 0.0193317111675
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 52.8309950794
+   checking send to node 1000 score 0.0193319336681
+   checking send to node 1008 score 57.9759559512
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 53.3036870982
+   checking send to node 1000 score 51.1228748156
+   checking send to node 1008 score 57.9759559512
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 53.7849918278
+   checking send to node 1000 score 51.1228748156
+   checking send to node 1008 score 0.0193316732845
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 54.2751468325
+   checking send to node 1000 score 99.941797572
+   checking send to node 1008 score 59.1287173409
+---node 1001 sending to node 1000
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 54.7743984948
+   checking send to node 1000 score 0.0193319567786
+   checking send to node 1008 score 59.7226056355
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 55.2830024281
+   checking send to node 1000 score 0.0193319567786
+   checking send to node 1008 score 59.7226056355
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 55.8012239133
+   checking send to node 1000 score 0.019331964482
+   checking send to node 1008 score 0.0193316164603
+---node 1001 sending to node 1001
+node 1001 has score 56.3293383601
+   checking send to node 1000 score 0.019331964482
+   checking send to node 1008 score 60.9472067576
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 56.8676317952
+   checking send to node 1000 score 50.5701350125
+   checking send to node 1008 score 60.9472067576
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 57.4164013786
+   checking send to node 1000 score 99.9424333224
+   checking send to node 1008 score 61.5786886646
+---node 1001 sending to node 1000
+---sent message
+node 1001 has score 57.9759559512
+   checking send to node 1000 score 99.9424333224
+   checking send to node 1008 score 0.0193315596364
+---node 1001 sending to node 1000
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 58.5466166135
+   checking send to node 1000 score 99.9425901062
+   checking send to node 1008 score 0.0193315596364
+---node 1001 sending to node 1000
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 59.1287173409
+   checking send to node 1000 score 99.9425901062
+   checking send to node 1008 score 62.8820609045
+---node 1001 sending to node 1000
+---sent message
+node 1001 has score 59.7226056355
+   checking send to node 1000 score 0.0193319952946
+   checking send to node 1008 score 0.019331521754
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 60.3286432167
+   checking send to node 1008 score 0.019331521754
+---node 1001 sending to node 1001
+node 1001 has score 60.9472067576
+   checking send to node 1008 score 64.2422467661
+---node 1001 sending to node 1008
+---sent message
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 61.5786886646
+   checking send to node 1008 score 0.0193314838718
+---node 1001 sending to node 1001
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1003 which has queue []
+node 1001 has score 62.2234979078
+   checking send to node 1008 score 0.0193314838718
+---node 1001 sending to node 1001
+node 1001 has score 62.8820609045
+   checking send to node 1008 score 0.0193314649307
+---node 1001 sending to node 1001
+node 1001 has score 63.5548224593
+   checking send to node 1008 score 66.3974519166
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 64.2422467661
+   checking send to node 1008 score 0.0193314270487
+---node 1001 sending to node 1001
+node 1001 has score 64.9448184768
+   checking send to node 1008 score 0.0193314270487
+---node 1001 sending to node 1001
+node 1001 has score 65.6630438395
+   checking send to node 1008 score 67.9170544188
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 66.3974519166
+   checking send to node 1008 score 68.7034331904
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 67.1485958837
+   checking send to node 1008 score 68.7034331904
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 67.9170544188
+   checking send to node 1008 score 69.5083664482
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 68.7034331904
+   checking send to node 1008 score 0.019331351285
+---node 1001 sending to node 1001
+node 1001 has score 69.5083664482
+   checking send to node 1008 score 0.019331351285
+---node 1001 sending to node 1001
+node 1001 has score 70.3325187302
+   checking send to node 1008 score 0.0193313323442
+---node 1001 sending to node 1001
+node 1001 has score 71.1765866923
+   checking send to node 1008 score 0.0193313134034
+---node 1001 sending to node 1001
+node 1001 has score 72.0413010722
+   checking send to node 1008 score 0.0193313134034
+---node 1001 sending to node 1001
+node 1001 has score 72.9274287992
+   checking send to node 1008 score 0.0193312944627
+---node 1001 sending to node 1001
+node 1001 has score 73.8357752634
+   checking send to node 1008 score 0.0193312755219
+---node 1001 sending to node 1001
+node 1001 has score 74.7671867572
+   checking send to node 1008 score 0.0193312755219
+---node 1001 sending to node 1001
+node 1001 has score 75.7225531044
+   checking send to node 1008 score 0.0193312565813
+---node 1001 sending to node 1001
+node 1001 has score 76.7028104973
+   checking send to node 1008 score 75.7225531044
+---node 1001 sending to node 1001
+node 1001 has score 77.7089445549
+   checking send to node 1008 score 76.7028104973
+---node 1001 sending to node 1001
+node 1001 has score 78.7419936305
+   checking send to node 1008 score 76.7028104973
+---node 1001 sending to node 1001
+node 1001 has score 79.8030523842
+   checking send to node 1008 score 77.7089445549
+---node 1001 sending to node 1001
+node 1001 has score 80.8932756536
+   checking send to node 1008 score 78.7419936305
+---node 1001 sending to node 1001
+node 1001 has score 82.0138826466
+   checking send to node 1008 score 78.7419936305
+---node 1001 sending to node 1001
+node 1001 has score 83.1661614883
+   checking send to node 1008 score 79.8030523842
+---node 1001 sending to node 1001
+node 1001 has score 84.3514741622
+   checking send to node 1008 score 80.8932756536
+---node 1001 sending to node 1001
+node 1001 has score 85.5712618798
+   checking send to node 1008 score 80.8932756536
+---node 1001 sending to node 1001
+node 1001 has score 86.8270509259
+   checking send to node 1008 score 0.0193311239976
+---node 1001 sending to node 1001
+node 1001 has score 88.1204590315
+   checking send to node 1008 score 0.0193311050572
+---node 1001 sending to node 1001
+node 1001 has score 89.4532023261
+   checking send to node 1008 score 0.0193311050572
+---node 1001 sending to node 1001
+node 1001 has score 90.8271029338
+   checking send to node 1007 score 18.9540187416
+   checking send to node 1008 score 0.0193310861168
+---node 1001 sending to node 1001
+node 1001 has score 92.2440972852
+   checking send to node 1007 score 17.8413432892
+   checking send to node 1008 score 0.0193310671765
+---node 1001 sending to node 1001
+node 1001 has score 93.7062452236
+   checking send to node 1007 score 16.7493690239
+   checking send to node 1008 score 0.0193310671765
+---node 1001 sending to node 1001
+node 1001 has score 95.2157399971
+   checking send to node 1007 score 0.0193307415985
+   checking send to node 1008 score 0.0193310482363
+---node 1001 sending to node 1001
+node 1001 has score 96.7749192348
+   checking send to node 1007 score 0.0193307623373
+   checking send to node 1008 score 88.1204590315
+---node 1001 sending to node 1001
+node 1001 has score 98.386277026
+   checking send to node 1007 score 0.0193307623373
+   checking send to node 1008 score 89.4532023261
+---node 1001 sending to node 1001
+node 1001 has score 0.052477235048
+   checking send to node 1007 score 0.0193307830762
+   checking send to node 1008 score 89.4532023261
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 1.77636819419
+   checking send to node 1007 score 7.32578965413
+   checking send to node 1008 score 90.8271029338
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 3.56099895713
+   checking send to node 1007 score 0.0193308209558
+   checking send to node 1008 score 92.2440972852
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 5.40963729217
+   checking send to node 1007 score 3.56099895713
+   checking send to node 1008 score 92.2440972852
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 7.3257896533
+   checking send to node 1007 score 0.0193308588355
+   checking send to node 1008 score 93.7062452236
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 9.31322338108
+   checking send to node 1007 score 0.0524772348102
+   checking send to node 1008 score 95.2157399971
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 11.6174457968
+   checking send to node 1003 score 99.5412288034
+   checking send to node 1007 score 0.0193308967154
+   checking send to node 1008 score 95.2157399971
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 14.0213445303
+   checking send to node 1003 score 0.0193305425259
+   checking send to node 1007 score 96.7749192343
+   checking send to node 1008 score 96.7749192348
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 16.7493690239
+   checking send to node 1003 score 0.0193305425259
+   checking send to node 1007 score 99.6970211245
+   checking send to node 1008 score 0.0193308967154
+---node 1001 sending to node 1007
+---sent message
+node 1001 has score 20.3897530666
+   checking send to node 1003 score 0.0193305718995
+   checking send to node 1007 score 99.7018245711
+   checking send to node 1008 score 0.052477235048
+---node 1001 sending to node 1007
+---sent message
+node 1001 has score 24.2654553052
+   checking send to node 1003 score 0.0193306012733
+   checking send to node 1007 score 99.7064773529
+   checking send to node 1008 score 0.052477235048
+---node 1001 sending to node 1007
+---sent message
+node 1001 has score 28.4000547951
+   checking send to node 1003 score 28.4000547955
+   checking send to node 1007 score 99.7153584141
+   checking send to node 1008 score 3.56099895713
+---node 1001 sending to node 1007
+---sent message
+node 1001 has score 32.8203896305
+   checking send to node 1003 score 99.6151438687
+   checking send to node 1008 score 0.0193308209558
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 37.557140165
+   checking send to node 1003 score 0.0193306893951
+   checking send to node 1008 score 7.3257896533
+---node 1001 sending to node 1001
+node 1001 has score 42.6455421326
+   checking send to node 1003 score 16.7493690239
+   checking send to node 1008 score 0.0193307830762
+---node 1001 sending to node 1001
+node 1001 has score 48.1262647051
+   checking send to node 1003 score 0.0193307415985
+   checking send to node 1008 score 0.0193307623373
+---node 1001 sending to node 1001
+node 1001 has score 54.0464998065
+   checking send to node 1003 score 0.0193307623373
+   checking send to node 1008 score 0.0193307415985
+---node 1001 sending to node 1001
+node 1001 has score 58.0558877018
+   checking send to node 1003 score 0.0193307830762
+   checking send to node 1008 score 16.7493690239
+---node 1001 sending to node 1001
+node 1001 has score 62.2802398675
+   checking send to node 1003 score 6.63424298691
+   checking send to node 1008 score 0.0193306893951
+---node 1001 sending to node 1001
+node 1001 has score 66.737320626
+   checking send to node 1008 score 24.2654553052
+---node 1001 sending to node 1001
+node 1001 has score 71.4469071039
+   checking send to node 1008 score 24.2654553052
+---node 1001 sending to node 1001
+node 1001 has score 76.0766836246
+   checking send to node 1008 score 24.2654553052
+---node 1001 sending to node 1001
+node 1001 has score 80.9641812511
+   checking send to node 1008 score 28.4000547951
+---node 1001 sending to node 1001
+node 1001 has score 86.1315356027
+   checking send to node 1008 score 28.4000547951
+---node 1001 sending to node 1001
+node 1001 has score 91.603491976
+   checking send to node 1008 score 0.0193306012733
+---node 1001 sending to node 1001
+node 1001 has score 0.150750154914
+   checking send to node 1008 score 0.0193306012733
+---node 1001 sending to node 1001
+node 1001 has score 7.72422195292
+   checking send to node 1008 score 0.0193305718995
+---node 1001 sending to node 1001
+node 1001 has score 15.8948481388
+   checking send to node 1008 score 0.0193305718995
+---node 1001 sending to node 1001
+node 1001 has score 12.3046979235
+   checking send to node 1008 score 0.0193305425259
+---node 1001 sending to node 1001
+node 1001 has score 8.83224118317
+   checking send to node 1008 score 0.0193305425259
+---node 1001 sending to node 1001
+node 1001 has score 5.47178384149
+   checking send to node 1008 score 48.1262647051
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 2.21799330264
+   checking send to node 1008 score 48.1262647051
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 98.9688023709
+   checking send to node 1008 score 54.0464998065
+---node 1001 sending to node 1001
+node 1001 has score 95.8226047018
+   checking send to node 1008 score 54.0464998065
+---node 1001 sending to node 1001
+node 1001 has score 92.7745796491
+   checking send to node 1008 score 0.0193304650989
+---node 1001 sending to node 1001
+node 1001 has score 89.8202027873
+   checking send to node 1008 score 0.0193304650989
+---node 1001 sending to node 1001
+node 1001 has score 86.9552235026
+   checking send to node 1008 score 62.2802398675
+---node 1001 sending to node 1001
+node 1001 has score 84.175644587
+   checking send to node 1008 score 66.737320626
+---node 1001 sending to node 1001
+node 1001 has score 81.4777036414
+   checking send to node 1008 score 71.4469071039
+---node 1001 sending to node 1001
+node 1001 has score 78.8578560713
+   checking send to node 1008 score 71.4469071039
+---node 1001 sending to node 1001
+node 1001 has score 85.2890277841
+   checking send to node 1008 score 0.0193303917045
+---node 1001 sending to node 1001
+node 1001 has score 90.5202663116
+   checking send to node 1008 score 0.0193303743493
+---node 1001 sending to node 1001
+node 1001 has score 96.0562767386
+   checking send to node 1008 score 86.1315356027
+---node 1001 sending to node 1001
+node 1001 has score 1.92449227197
+   checking send to node 1008 score 91.603491976
+---node 1001 sending to node 1008
+---sent message
+node 1001 has score 8.15574040095
+---node 1001 sending to node 1001
+node 1001 has score 19.2015858681
+---node 1001 sending to node 1001
+node 1001 has score 31.4884227799
+---node 1001 sending to node 1001
+node 1001 has score 45.2378354987
+---node 1001 sending to node 1001
+node 1001 has score 60.7274999752
+---node 1001 sending to node 1001
+node 1001 has score 74.417233295
+---node 1001 sending to node 1001
+node 1001 has score 66.7178366085
+---node 1001 sending to node 1001
+node 1001 has score 59.4393879137
+---node 1001 sending to node 1001
+node 1001 has score 52.5475520513
+---node 1001 sending to node 1001
+node 1001 has score 45.9216069122
+---node 1001 sending to node 1001
+node 1001 has score 39.4960284965
+---node 1001 sending to node 1001
+node 1001 has score 33.2764273334
+---node 1001 sending to node 1001
+node 1001 has score 27.265382138
+---node 1001 sending to node 1001
+node 1001 has score 21.4630347668
+---node 1001 sending to node 1001
+node 1001 has score 15.8675980535
+---node 1001 sending to node 1001
+node 1001 has score 10.4757839715
+---node 1001 sending to node 1001
+node 1001 has score 5.28316067839
+---node 1001 sending to node 1001
+node 1001 has score 0.284447352416
+---node 1001 sending to node 1001
+node 1001 has score 95.4737554431
+---node 1001 sending to node 1001
+node 1001 has score 90.8447842913
+---node 1001 sending to node 1001
+node 1001 has score 86.3909783263
+---node 1001 sending to node 1001
+node 1001 has score 82.1056521692
+---node 1001 sending to node 1001
+node 1001 has score 86.8380244093
+---node 1001 sending to node 1001
+node 1001 has score 91.7683112157
+---node 1001 sending to node 1001
+node 1001 has score 96.9035141871
+---node 1001 sending to node 1001
+node 1001 has score 2.25001774926
+---node 1001 sending to node 1001
+node 1001 has score 7.68026067302
+---node 1001 sending to node 1001
+node 1001 has score 13.3289838916
+---node 1001 sending to node 1001
+node 1001 has score 19.2005964242
+---node 1001 sending to node 1001
+node 1001 has score 25.2978903739
+---node 1001 sending to node 1001
+node 1001 has score 17.7346241648
+---node 1001 sending to node 1001
+node 1001 has score 23.6224025889
+---node 1001 sending to node 1001
+node 1001 has score 29.7148700715
+---node 1001 sending to node 1001
+node 1001 has score 36.0082084269
+---node 1001 sending to node 1001
+node 1001 has score 42.4951949361
+---node 1001 sending to node 1001
+node 1001 has score 48.1687494404
+---node 1001 sending to node 1001
+node 1001 has score 57.772612819
+---node 1001 sending to node 1001
+node 1001 has score 67.6376175989
+---node 1001 sending to node 1001
+node 1001 has score 78.9402475231
+---node 1001 sending to node 1001
+node 1001 has score 85.6184486184
+---node 1001 sending to node 1001
+node 1001 has score 92.2303458872
+---node 1001 sending to node 1001
+node 1001 has score 98.7145207241
+---node 1001 sending to node 1001
+node 1001 has score 5.00154246499
+---node 1001 sending to node 1001
+node 1001 has score 14.0838581579
+---node 1001 sending to node 1001
+node 1001 has score 22.2433124305
+---node 1001 sending to node 1001
+node 1001 has score 29.1684457981
+---node 1001 sending to node 1001
+node 1001 has score 34.5581016515
+---node 1001 sending to node 1001
+node 1001 has score 37.2127295315
+---node 1001 sending to node 1001
+node 1001 has score 38.9716257708
+---node 1001 sending to node 1001
+node 1001 has score 31.3526766067
+---node 1001 sending to node 1001
+node 1001 has score 16.9568239839
+---node 1001 sending to node 1001
+node 1001 has score 3.75171589778
+---node 1001 sending to node 1001
+node 1001 has score 91.5963807844
+---node 1001 sending to node 1001
+node 1001 has score 80.3711256625
+---node 1001 sending to node 1001
+node 1001 has score 74.1971819753
+---node 1001 sending to node 1001
+node 1001 has score 68.2892836136
+---node 1001 sending to node 1001
+node 1001 has score 70.6840122134
+---node 1001 sending to node 1001
+node 1001 has score 72.3295582691
+---node 1001 sending to node 1001
+node 1001 has score 73.1828477275
+---node 1001 sending to node 1001
+node 1001 has score 73.2207679745
+---node 1001 sending to node 1001
+node 1001 has score 66.2220159203
+---node 1001 sending to node 1001
+node 1001 has score 59.5533696995
+---node 1001 sending to node 1001
+node 1001 has score 53.1934602401
+---node 1001 sending to node 1001
+node 1001 has score 47.1225790632
+---node 1001 sending to node 1001
+node 1001 has score 41.7909345384
+---node 1001 sending to node 1001
+node 1001 has score 36.6798359499
+---node 1001 sending to node 1001
+node 1001 has score 37.1081738997
+---node 1001 sending to node 1001
+node 1001 has score 36.7953949885
+---node 1001 sending to node 1001
+node 1001 has score 35.7497447116
+---node 1001 sending to node 1001
+node 1001 has score 33.9995179113
+---node 1001 sending to node 1001
+node 1001 has score 32.4139621336
+---node 1001 sending to node 1001
+node 1001 has score 30.5070147402
+---node 1001 sending to node 1001
+node 1001 has score 29.4962367039
+---node 1001 sending to node 1001
+node 1001 has score 28.9091114836
+---node 1001 sending to node 1001
+node 1001 has score 30.2354064122
+---node 1001 sending to node 1001
+node 1001 has score 30.2354064122
+---node 1001 sending to node 1001
+node 1001 has score 28.9091114836
+---node 1001 sending to node 1001
+node 1001 has score 29.4962367039
+---node 1001 sending to node 1001
+node 1001 has score 30.5070147402
+---node 1001 sending to node 1001
+node 1001 has score 32.4139621337
+---node 1001 sending to node 1001
+node 1001 has score 33.9995179113
+---node 1001 sending to node 1001
+node 1001 has score 35.7497447116
+---node 1001 sending to node 1001
+node 1001 has score 36.7953949886
+---node 1001 sending to node 1001
+node 1001 has score 37.1081738996
+---node 1001 sending to node 1001
+node 1001 has score 36.6798359499
+---node 1001 sending to node 1001
+node 1001 has score 41.7909345383
+---node 1001 sending to node 1001
+node 1001 has score 47.1225790632
+---node 1001 sending to node 1001
+node 1001 has score 47.0146217518
+---node 1001 sending to node 1001
+node 1001 has score 46.3668661381
+---node 1001 sending to node 1001
+node 1001 has score 45.192221063
+---node 1001 sending to node 1001
+node 1001 has score 43.5134076184
+---node 1001 sending to node 1001
+node 1001 has score 49.0386246359
+---node 1001 sending to node 1001
+node 1001 has score 54.8203207895
+---node 1001 sending to node 1001
+node 1001 has score 50.047974249
+---node 1001 sending to node 1001
+node 1001 has score 44.5544197251
+---node 1001 sending to node 1001
+node 1001 has score 38.4999685315
+---node 1001 sending to node 1001
+node 1001 has score 32.0389172313
+---node 1001 sending to node 1001
+node 1001 has score 25.3122736953
+---node 1001 sending to node 1001
+node 1001 has score 18.443355749
+---node 1001 sending to node 1001
+node 1001 has score 11.5358978727
+---node 1001 sending to node 1001
+node 1001 has score 4.67407645468
+---node 1001 sending to node 1001
+node 1001 has score 99.999602224
+---node 1001 sending to node 1001
+node 1001 has score 95.5329879743
+---node 1001 sending to node 1001
+node 1001 has score 91.260740187
+---node 1001 sending to node 1001
+node 1001 has score 87.1705028123
+---node 1001 sending to node 1001
+node 1001 has score 83.2509404598
+---node 1001 sending to node 1001
+node 1001 has score 79.4916356394
+---node 1001 sending to node 1001
+node 1001 has score 75.8829981005
+---node 1001 sending to node 1001
+node 1001 has score 72.4161846727
+---node 1001 sending to node 1001
+node 1001 has score 69.5067248755
+---node 1001 sending to node 1001
+node 1001 has score 66.6936317191
+---node 1001 sending to node 1001
+node 1001 has score 64.8438383342
+---node 1001 sending to node 1001
+node 1001 has score 62.9093690055
+---node 1001 sending to node 1001
+node 1001 has score 60.9018741008
+---node 1001 sending to node 1001
+node 1001 has score 58.8326143108
+---node 1001 sending to node 1001
+node 1001 has score 56.7123523319
+---node 1001 sending to node 1001
+node 1001 has score 54.5512687107
+---node 1001 sending to node 1001
+node 1001 has score 52.3589004692
+---node 1001 sending to node 1001
+node 1001 has score 50.1441005633
+---node 1001 sending to node 1001
+node 1001 has score 50.1441005633
+---node 1001 sending to node 1001
+node 1001 has score 48.4903671097
+---node 1001 sending to node 1001
+node 1001 has score 46.8365569355
+---node 1001 sending to node 1001
+node 1001 has score 43.9050127534
+---node 1001 sending to node 1001
+node 1001 has score 41.1488932648
+---node 1001 sending to node 1001
+node 1001 has score 38.4179815568
+---node 1001 sending to node 1001
+node 1001 has score 35.7197342343
+---node 1001 sending to node 1001
+node 1001 has score 33.0603946764
+---node 1001 sending to node 1001
+node 1001 has score 30.4451076056
+---node 1001 sending to node 1001
+node 1001 has score 27.87803315
+---node 1001 sending to node 1001
+node 1001 has score 25.3624573624
+---node 1001 sending to node 1001
+node 1001 has score 22.900897081
+---node 1001 sending to node 1001
+node 1001 has score 20.699353418
+---node 1001 sending to node 1001
+node 1001 has score 18.5440631686
+---node 1001 sending to node 1001
+node 1001 has score 16.4358792055
+---node 1001 sending to node 1001
+node 1001 has score 14.3753229513
+---node 1001 sending to node 1001
+node 1001 has score 12.3626296002
+---node 1001 sending to node 1001
+node 1001 has score 10.3977888519
+---node 1001 sending to node 1001
+node 1001 has score 8.48058137226
+---node 1001 sending to node 1001
+node 1001 has score 6.61061124523
+---node 1001 sending to node 1001
+node 1001 has score 4.80117183505
+---node 1001 sending to node 1001
+node 1001 has score 3.83482545253
+---node 1001 sending to node 1001
+node 1001 has score 2.82101407458
+---node 1001 sending to node 1001
+node 1001 has score 1.17024449944
+---node 1001 sending to node 1001
+node 1001 has score 99.5639393248
+---node 1001 sending to node 1001
+node 1001 has score 98.0007447172
+---node 1001 sending to node 1001
+node 1001 has score 96.4793284391
+---node 1001 sending to node 1001
+node 1001 has score 94.9983834545
+---node 1001 sending to node 1001
+node 1001 has score 93.5566307712
+---node 1001 sending to node 1001
+node 1001 has score 92.1528216346
+---node 1001 sending to node 1001
+node 1001 has score 90.7857391696
+---node 1001 sending to node 1001
+node 1001 has score 89.8061687862
+---node 1001 sending to node 1001
+node 1001 has score 88.8451397027
+---node 1001 sending to node 1001
+node 1001 has score 87.9022168668
+---node 1001 sending to node 1001
+node 1001 has score 86.976974375
+---node 1001 sending to node 1001
+node 1001 has score 86.0689955503
+---node 1001 sending to node 1001
+node 1001 has score 85.1778729789
+---node 1001 sending to node 1001
+node 1001 has score 84.3032085153
+---node 1001 sending to node 1001
+node 1001 has score 83.4446132558
+---node 1001 sending to node 1001
+node 1001 has score 82.6180746828
+---node 1001 sending to node 1001
+node 1001 has score 100.236681701
+---node 1001 sending to node 1001
+node 1001 has score 84.5943519688
+---node 1001 sending to node 1001
+node 1001 has score 85.2017336515
+---node 1001 sending to node 1001
+node 1001 has score 85.8151496947
+---node 1001 sending to node 1001
+node 1001 has score 86.6490934472
+---node 1001 sending to node 1001
+node 1001 has score 87.4926102792
+---node 1001 sending to node 1001
+node 1001 has score 88.2175189896
+---node 1001 sending to node 1001
+node 1001 has score 88.9477647853
+---node 1001 sending to node 1001
+node 1001 has score 89.6831391927
+---node 1001 sending to node 1001
+node 1001 has score 90.4234143697
+---node 1001 sending to node 1001
+node 1001 has score 91.1683421731
+---node 1001 sending to node 1001
+node 1001 has score 91.9176532164
+---node 1001 sending to node 1001
+node 1001 has score 100.196621067
+---node 1001 sending to node 1001
+node 1001 has score 100.198263846
+---node 1001 sending to node 1001
+node 1001 has score 100.19993429
+---node 1001 sending to node 1001
+node 1001 has score 100.201633103
+---node 1001 sending to node 1001
+node 1001 has score 100.203361014
+---node 1001 sending to node 1001
+node 1001 has score 100.205118776
+---node 1001 sending to node 1001
+node 1001 has score 100.206907171
+---node 1001 sending to node 1001
+node 1001 has score 100.208727006
+---node 1001 sending to node 1001
+node 1001 has score 100.210579118
+---node 1001 sending to node 1001
+node 1001 has score 100.212464373
+---node 1001 sending to node 1001
+node 1001 has score 100.214383668
+---node 1001 sending to node 1001
+node 1001 has score 100.216337934
+---node 1001 sending to node 1001
+node 1001 has score 100.218328136
+---node 1001 sending to node 1001
+node 1001 has score 100.220355274
+---node 1001 sending to node 1001
+node 1001 has score 100.222420385
+---node 1001 sending to node 1001
+node 1001 has score 100.224524548
+---node 1001 sending to node 1001
+node 1001 has score 100.22666888
+---node 1001 sending to node 1001
+node 1001 has score 100.228854542
+---node 1001 sending to node 1001
+node 1001 has score 100.231082742
+---node 1001 sending to node 1001
+node 1001 has score 100.233354733
+---node 1001 sending to node 1001
+node 1001 has score 100.235671819
+---node 1001 sending to node 1001
+node 1001 has score 100.238035356
+---node 1001 sending to node 1001
+node 1001 has score 100.240446754
+---node 1001 sending to node 1001
+node 1001 has score 100.242907484
+---node 1001 sending to node 1001
+node 1001 has score 100.245419074
+---node 1001 sending to node 1001
+node 1001 has score 100.247983117
+---node 1001 sending to node 1001
+node 1001 has score 99.6298829279
+---node 1001 sending to node 1001
+node 1001 has score 11.6174457968
+---node 1001 sending to node 1001
+node 1001 has score 9.31322338108
+---node 1001 sending to node 1001
+node 1001 has score 99.6520371075
+---node 1001 sending to node 1001
+node 1001 has score 99.6582497248
+---node 1001 sending to node 1001
+node 1001 has score 99.6642434457
+---node 1001 sending to node 1001
+node 1001 has score 99.6700296391
+---node 1001 sending to node 1001
+node 1001 has score 99.6756188998
+---node 1001 sending to node 1001
+node 1001 has score 99.6810211135
+---node 1001 sending to node 1001
+node 1001 has score 99.6862455153
+---node 1001 sending to node 1001
+node 1001 has score 99.6913007419
+---node 1001 sending to node 1001
+node 1001 has score 99.6961948799
+---node 1001 sending to node 1001
+node 1001 has score 99.7009355083
+---node 1001 sending to node 1001
+node 1001 has score 99.7055297382
+---node 1001 sending to node 1001
+node 1001 has score 99.7099842481
+---node 1001 sending to node 1001
+node 1001 has score 99.7143053163
+---node 1001 sending to node 1001
+node 1001 has score 99.7184988506
+---node 1001 sending to node 1001
+node 1001 has score 99.7225704151
+---node 1001 sending to node 1001
+node 1001 has score 99.7265252548
+---node 1001 sending to node 1001
+node 1001 has score 99.7303683184
+---node 1001 sending to node 1001
+node 1001 has score 99.7341042785
+---node 1001 sending to node 1001
+node 1001 has score 99.7377375511
+---node 1001 sending to node 1001
+node 1001 has score 99.7412723125
+---node 1001 sending to node 1001
+node 1001 has score 99.7447125157
+---node 1001 sending to node 1001
+node 1001 has score 99.748061905
+---node 1001 sending to node 1001
+node 1001 has score 99.7513240294
+---node 1001 sending to node 1001
+node 1001 has score 99.7545022557
+---node 1001 sending to node 1001
+node 1001 has score 99.7575997793
+---node 1001 sending to node 1001
+node 1001 has score 99.7606196357
+---node 1001 sending to node 1001
+node 1001 has score 99.7635647099
+---node 1001 sending to node 1001
+node 1001 has score 99.7664377457
+---node 1001 sending to node 1001
+node 1001 has score 99.7692413544
+---node 1001 sending to node 1001
+node 1001 has score 99.7719780225
+---node 1001 sending to node 1001
+node 1001 has score 99.7746501194
+---node 1001 sending to node 1001
+node 1001 has score 99.7772599037
+---node 1001 sending to node 1001
+node 1001 has score 99.77980953
+---node 1001 sending to node 1001
+node 1001 has score 99.7823010547
+---node 1001 sending to node 1001
+node 1001 has score 99.7847364414
+---node 1001 sending to node 1001
+node 1001 has score 99.7871175665
+---node 1001 sending to node 1001
+node 1001 has score 99.7894462235
+---node 1001 sending to node 1001
+node 1001 has score 99.7917241276
+---node 1001 sending to node 1001
+node 1001 has score 99.7939529203
+---node 1001 sending to node 1001
+node 1001 has score 99.796134173
+---node 1001 sending to node 1001
+node 1001 has score 99.7982693905
+---node 1001 sending to node 1001
+node 1001 has score 99.8003600152
+---node 1001 sending to node 1001
+node 1001 has score 99.8024074295
+---node 1001 sending to node 1001
+node 1001 has score 99.8044129595
+---node 1001 sending to node 1001
+node 1001 has score 99.8063778773
+---node 1001 sending to node 1001
+node 1001 has score 99.8083034043
+---node 1001 sending to node 1001
+node 1001 has score 99.8101907133
+---node 1001 sending to node 1001
+node 1001 has score 99.8120409309
+---node 1001 sending to node 1001
+node 1001 has score 99.8138551399
+---node 1001 sending to node 1001
+node 1001 has score 99.8156343815
+---node 1001 sending to node 1001
+node 1001 has score 99.8173796569
+---node 1001 sending to node 1001
+node 1001 has score 99.8190919297
+---node 1001 sending to node 1001
+node 1001 has score 99.8207721272
+   checking send to node 1009 score 99.941030786
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8224211423
+   checking send to node 1009 score 99.941030786
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8240398352
+   checking send to node 1009 score 99.9411953853
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8256290345
+   checking send to node 1009 score 99.9411953853
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8271895392
+   checking send to node 1009 score 0.0193319259644
+---node 1001 sending to node 1001
+node 1001 has score 99.8287221195
+   checking send to node 1009 score 0.0193319259644
+---node 1001 sending to node 1001
+node 1001 has score 99.8302275182
+   checking send to node 1009 score 0.0193319336681
+---node 1001 sending to node 1001
+node 1001 has score 99.8317064523
+   checking send to node 1009 score 51.1228748156
+---node 1001 sending to node 1001
+node 1001 has score 99.8331596134
+   checking send to node 1009 score 51.1228748156
+---node 1001 sending to node 1001
+node 1001 has score 99.8345876695
+   checking send to node 1009 score 99.9418447378
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8359912657
+   checking send to node 1009 score 99.9418447378
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.837371025
+   checking send to node 1009 score 0.0193319567786
+---node 1001 sending to node 1001
+node 1001 has score 99.8393346424
+   checking send to node 1009 score 0.0193319567786
+---node 1001 sending to node 1001
+node 1001 has score 99.8411768846
+   checking send to node 1009 score 0.019331964482
+---node 1001 sending to node 1001
+node 1001 has score 99.8429769653
+   checking send to node 1009 score 50.5701350125
+---node 1001 sending to node 1001
+node 1001 has score 99.8447363156
+   checking send to node 1009 score 99.9424799731
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8464563023
+   checking send to node 1009 score 99.9424799731
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8481382321
+   checking send to node 1009 score 99.9426366299
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8497833543
+   checking send to node 1009 score 0.0193319952946
+---node 1001 sending to node 1001
+node 1001 has score 99.851392864
+   checking send to node 1009 score 50.0004000354
+---node 1001 sending to node 1001
+node 1001 has score 99.8529679054
+   checking send to node 1009 score 99.9429071999
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8545095739
+   checking send to node 1009 score 99.9429071999
+---node 1001 sending to node 1009
+---sent message
+node 1001 has score 99.8560189193
+   checking send to node 1009 score 0.0193320233667
+---node 1001 sending to node 1001
+node 1001 has score 99.8574969474
+   checking send to node 1009 score 0.0193320327238
+---node 1001 sending to node 1001
+node 1001 has score 99.8589446231
+   checking send to node 1009 score 0.0193320327238
+---node 1001 sending to node 1001
+node 1001 has score 99.8603628719
+   checking send to node 1009 score 49.3588530096
+---node 1001 sending to node 1001
+node 1001 has score 99.861752582
+---node 1001 sending to node 1001
+node 1001 has score 99.8631146063
+---node 1001 sending to node 1001
+node 1001 has score 99.8644684437
+---node 1001 sending to node 1001
+node 1001 has score 99.8653468863
+---node 1001 sending to node 1001
+node 1001 has score 99.8662138904
+---node 1001 sending to node 1001
+node 1001 has score 99.8670696782
+---node 1001 sending to node 1001
+node 1001 has score 99.8679144658
+---node 1001 sending to node 1001
+node 1001 has score 99.868748464
+---node 1001 sending to node 1001
+node 1001 has score 99.8695718783
+---node 1001 sending to node 1001
+node 1001 has score 99.8703849087
+---node 1001 sending to node 1001
+node 1001 has score 99.8711877506
+---node 1001 sending to node 1001
+node 1001 has score 99.8719805943
+---node 1001 sending to node 1001
+node 1001 has score 99.8727636253
+---node 1001 sending to node 1001
+node 1001 has score 99.8735370248
+---node 1001 sending to node 1001
+node 1001 has score 99.8743009694
+---node 1001 sending to node 1001
+node 1001 has score 99.8750556314
+---node 1001 sending to node 1001
+node 1001 has score 99.875801179
+---node 1001 sending to node 1001
+node 1001 has score 99.8765377763
+---node 1001 sending to node 1001
+node 1001 has score 99.8881348518
+---node 1001 sending to node 1001
+node 1001 has score 99.888640668
+---node 1001 sending to node 1001
+node 1001 has score 99.8891418947
+---node 1001 sending to node 1001
+node 1001 has score 99.8896385943
+---node 1001 sending to node 1001
+node 1001 has score 99.8901308278
+---node 1001 sending to node 1001
+node 1001 has score 99.8906186551
+   checking send to node 1002 score 0.0193330004504
+---node 1001 sending to node 1001
+node 1001 has score 99.8911021351
+   checking send to node 1002 score 0.0193329886045
+---node 1001 sending to node 1001
+node 1001 has score 99.8915813258
+   checking send to node 1002 score 0.0193329886045
+---node 1001 sending to node 1001
+node 1001 has score 99.8909065333
+   checking send to node 1002 score 35.1315517256
+---node 1001 sending to node 1001
+node 1001 has score 99.8915439724
+   checking send to node 1002 score 0.0193329639405
+---node 1001 sending to node 1001
+node 1001 has score 99.895576761
+   checking send to node 1002 score 0.0193329482647
+---node 1001 sending to node 1001
+node 1001 has score 99.8960693608
+   checking send to node 1002 score 0.0193329325889
+---node 1001 sending to node 1001
+node 1001 has score 99.896557301
+   checking send to node 1002 score 0.0193329169131
+---node 1001 sending to node 1001
+node 1001 has score 99.8970406474
+   checking send to node 1002 score 0.0193329169131
+---node 1001 sending to node 1001
+node 1001 has score 99.8975194646
+   checking send to node 1002 score 35.9513750941
+---node 1001 sending to node 1001
+node 1001 has score 99.897993816
+   checking send to node 1002 score 0.0193328855615
+---node 1001 sending to node 1001
+node 1001 has score 99.8984637638
+   checking send to node 1002 score 36.2902658265
+---node 1001 sending to node 1001
+node 1001 has score 99.8989293691
+   checking send to node 1002 score 36.2902658265
+---node 1001 sending to node 1001
+node 1001 has score 99.8991702768
+   checking send to node 1002 score 36.4621502274
+---node 1001 sending to node 1001
+node 1001 has score 99.9017778633
+   checking send to node 1002 score 0.0193328351567
+---node 1001 sending to node 1001
+node 1001 has score 99.9021130537
+   checking send to node 1002 score 0.0193328351567
+---node 1001 sending to node 1001
+node 1001 has score 99.902445949
+   checking send to node 1002 score 36.8915316139
+---node 1001 sending to node 1001
+node 1001 has score 99.9027765725
+   checking send to node 1002 score 36.8915316139
+---node 1001 sending to node 1001
+node 1001 has score 99.9031049477
+   checking send to node 1002 score 37.0538389218
+---node 1001 sending to node 1001
+node 1001 has score 99.9034310971
+   checking send to node 1002 score 37.0538389218
+---node 1001 sending to node 1001
+node 1001 has score 99.9037550436
+---node 1001 sending to node 1001
+node 1001 has score 99.9040768092
+---node 1001 sending to node 1001
+node 1001 has score 99.904396416
+---node 1001 sending to node 1001
+node 1001 has score 99.9047138855
+---node 1001 sending to node 1001
+node 1001 has score 99.9050292393
+---node 1001 sending to node 1001
+node 1001 has score 99.9053424982
+---node 1001 sending to node 1001
+node 1001 has score 99.9056536833
+---node 1001 sending to node 1001
+node 1001 has score 99.9059628149
+---node 1001 sending to node 1001
+node 1001 has score 99.9062699134
+---node 1001 sending to node 1001
+node 1001 has score 99.9065749988
+---node 1001 sending to node 1001
+node 1001 has score 100.105474054
+---node 1001 sending to node 1001
+node 1001 has score 100.10607695
+---node 1001 sending to node 1001
+node 1001 has score 100.106686865
+---node 1001 sending to node 1001
+node 1001 has score 100.107303924
+---node 1001 sending to node 1001
+node 1001 has score 100.107928252
+---node 1001 sending to node 1001
+node 1001 has score 100.108559979
+---node 1001 sending to node 1001
+node 1001 has score 34.5933623791
+---node 1001 sending to node 1001
+node 1001 has score 34.7979045696
+---node 1001 sending to node 1001
+node 1001 has score 35.0470615883
+---node 1001 sending to node 1001
+node 1001 has score 35.2995054301
+---node 1001 sending to node 1001
+node 1001 has score 35.5552931475
+---node 1001 sending to node 1001
+node 1001 has score 35.8144828272
+---node 1001 sending to node 1001
+node 1001 has score 36.0771335991
+---node 1001 sending to node 1001
+node 1001 has score 36.343305645
+---node 1001 sending to node 1001
+node 1001 has score 36.6130602052
+---node 1001 sending to node 1001
+node 1001 has score 36.8864595846
+---node 1001 sending to node 1001
+node 1001 has score 37.0497899267
+---node 1001 sending to node 1001
+node 1001 has score 37.2144458234
+---node 1001 sending to node 1001
+node 1001 has score 37.3804413491
+---node 1001 sending to node 1001
+node 1001 has score 37.5477907332
+---node 1001 sending to node 1001
+node 1001 has score 37.71650836
+---node 1001 sending to node 1001
+node 1001 has score 37.8866087697
+---node 1001 sending to node 1001
+node 1001 has score 38.0581066593
+---node 1001 sending to node 1001
+node 1001 has score 38.2310168827
+---node 1001 sending to node 1001
+node 1001 has score 38.4581094931
+---node 1001 sending to node 1001
+node 1001 has score 38.6872998357
+---node 1001 sending to node 1001
+node 1001 has score 38.9458267884
+---node 1001 sending to node 1001
+node 1001 has score 39.2072249948
+   checking send to node 1003 score 0.0193323791128
+---node 1001 sending to node 1001
+node 1001 has score 39.4108198329
+   checking send to node 1003 score 43.7855882891
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 39.6160391693
+   checking send to node 1003 score 0.019332381976
+---node 1001 sending to node 1001
+node 1001 has score 39.8228922804
+   checking send to node 1003 score 0.0193323829304
+---node 1001 sending to node 1001
+node 1001 has score 40.0313881769
+   checking send to node 1003 score 0.0193323863378
+---node 1001 sending to node 1001
+node 1001 has score 40.0313881769
+   checking send to node 1003 score 43.5851174443
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 39.8228922804
+   checking send to node 1003 score 43.4422583994
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 39.6160391693
+   checking send to node 1003 score 43.4422583994
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 39.410819833
+   checking send to node 1003 score 0.019332399967
+---node 1001 sending to node 1001
+node 1001 has score 39.2072249948
+   checking send to node 1003 score 0.0193324033741
+---node 1001 sending to node 1001
+node 1001 has score 38.9458267884
+   checking send to node 1003 score 43.2251951224
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 38.6872998357
+   checking send to node 1003 score 43.1521322387
+---node 1001 sending to node 1003
+---sent message
+node 1001 has score 38.4581094932
+---node 1001 sending to node 1001
+node 1001 has score 38.2310168827
+---node 1001 sending to node 1001
+node 1001 has score 38.4841157876
+---node 1001 sending to node 1001
+node 1001 has score 38.740615063
+---node 1001 sending to node 1001
+node 1001 has score 39.0005833843
+---node 1001 sending to node 1001
+node 1001 has score 39.2640912802
+---node 1001 sending to node 1001
+node 1001 has score 39.5312111949
+---node 1001 sending to node 1001
+node 1001 has score 39.8020175533
+---node 1001 sending to node 1001
+node 1001 has score 40.0765868291
+---node 1001 sending to node 1001
+node 1001 has score 40.3549976149
+---node 1001 sending to node 1001
+node 1001 has score 40.5850575236
+---node 1001 sending to node 1001
+node 1001 has score 40.9457716893
+---node 1001 sending to node 1001
+node 1001 has score 41.3130285254
+---node 1001 sending to node 1001
+node 1001 has score 41.6463588869
+---node 1001 sending to node 1001
+node 1001 has score 41.9851172401
+---node 1001 sending to node 1001
+node 1001 has score 42.2040098187
+---node 1001 sending to node 1001
+node 1001 has score 42.4249419437
+---node 1001 sending to node 1001
+node 1001 has score 42.5822774222
+---node 1001 sending to node 1001
+node 1001 has score 42.7402333649
+---node 1001 sending to node 1001
+node 1001 has score 42.9455343833
+---node 1001 sending to node 1001
+node 1001 has score 43.1521322387
+---node 1001 sending to node 1001
+node 1001 has score 43.0806379016
+---node 1001 sending to node 1001
+node 1001 has score 43.008728553
+---node 1001 sending to node 1001
+node 1001 has score 42.9364127897
+---node 1001 sending to node 1001
+node 1001 has score 42.8636991736
+---node 1001 sending to node 1001
+node 1001 has score 42.736362923
+---node 1001 sending to node 1001
+node 1001 has score 42.6085334244
+---node 1001 sending to node 1001
+node 1001 has score 42.4807201971
+---node 1001 sending to node 1001
+node 1001 has score 42.3536711048
+---node 1001 sending to node 1001
+node 1001 has score 42.1881753577
+---node 1001 sending to node 1001
+node 1001 has score 42.0239819761
+---node 1001 sending to node 1001
+node 1001 has score 41.8610756463
+---node 1001 sending to node 1001
+node 1001 has score 41.6994412935
+---node 1001 sending to node 1001
+node 1001 has score 41.3620642836
+---node 1001 sending to node 1001
+node 1001 has score 41.0301637775
+---node 1001 sending to node 1001
+node 1001 has score 40.7036074952
+---node 1001 sending to node 1001
+node 1001 has score 40.3822673829
+---node 1001 sending to node 1001
+node 1001 has score 40.0660194453
+---node 1001 sending to node 1001
+node 1001 has score 39.7547435864
+---node 1001 sending to node 1001
+node 1001 has score 39.4483234574
+---node 1001 sending to node 1001
+node 1001 has score 39.1466463112
+---node 1001 sending to node 1001
+node 1001 has score 38.8496028647
+---node 1001 sending to node 1001
+node 1001 has score 38.5570871665
+---node 1001 sending to node 1001
+node 1001 has score 38.2689964708
+---node 1001 sending to node 1001
+node 1001 has score 37.9852311175
+---node 1001 sending to node 1001
+node 1001 has score 37.7056944167
+---node 1001 sending to node 1001
+node 1001 has score 37.4302925391
+---node 1001 sending to node 1001
+node 1001 has score 37.1589344111
+---node 1001 sending to node 1001
+node 1001 has score 36.8915316139
+---node 1001 sending to node 1001
+node 1001 has score 37.0538389218
+---node 1001 sending to node 1001
+node 1001 has score 37.2175992043
+---node 1001 sending to node 1001
+node 1001 has score 37.3828320613
+---node 1001 sending to node 1001
+node 1001 has score 37.5495574463
+---node 1001 sending to node 1001
+node 1001 has score 37.717795675
+---node 1001 sending to node 1001
+node 1001 has score 37.8875674337
+   checking send to node 1004 score 99.8733701119
+---node 1001 sending to node 1004
+---second if
+---sent message
+node 1004 has score 99.8741854561
+   checking send to node 1001 score 37.8875674337
+---node 1004 sending to node 1004
+node 1004 has score 99.8749902523
+   checking send to node 1001 score 38.0588937874
+---node 1004 sending to node 1004
+node 1004 has score 99.8757847037
+   checking send to node 1001 score 38.2317961887
+---node 1004 sending to node 1004
+node 1004 has score 99.8765690087
+   checking send to node 1001 score 38.4598266657
+---node 1004 sending to node 1004
+node 1004 has score 99.8773433603
+   checking send to node 1001 score 38.6906279197
+---node 1004 sending to node 1004
+node 1004 has score 99.8781079468
+   checking send to node 1001 score 38.9242507634
+---node 1004 sending to node 1004
+node 1004 has score 99.8788629518
+   checking send to node 1001 score 0.0193326313656
+---node 1004 sending to node 1004
+node 1004 has score 99.8796085544
+   checking send to node 1001 score 39.4001707615
+---node 1004 sending to node 1004
+node 1004 has score 99.880344929
+   checking send to node 1001 score 39.6425759484
+---node 1004 sending to node 1004
+node 1004 has score 99.8810722459
+   checking send to node 1001 score 0.0193325604572
+---node 1004 sending to node 1004
+node 1004 has score 99.8817906713
+   checking send to node 1001 score 40.3882492493
+---node 1004 sending to node 1004
+node 1004 has score 99.8825003672
+   checking send to node 1001 score 40.6431560554
+---node 1004 sending to node 1004
+node 1004 has score 99.8832014918
+   checking send to node 1001 score 0.0193325072762
+---node 1004 sending to node 1004
+node 1004 has score 99.8838941994
+   checking send to node 1001 score 41.1628628657
+---node 1004 sending to node 1004
+node 1004 has score 99.8948002701
+   checking send to node 1001 score 0.0193324718224
+---node 1004 sending to node 1004
+node 1004 has score 99.8952759475
+   checking send to node 1001 score 41.6961928499
+---node 1004 sending to node 1004
+node 1004 has score 99.8957473089
+   checking send to node 1001 score 41.9681350394
+---node 1004 sending to node 1004
+node 1004 has score 99.896214413
+   checking send to node 1001 score 0.0193324186419
+---node 1004 sending to node 1004
+node 1004 has score 99.896677317
+---node 1004 sending to node 1004
+node 1004 has score 99.8971360774
+---node 1004 sending to node 1004
+node 1004 has score 99.8975907495
+---node 1004 sending to node 1004
+node 1004 has score 99.8980413879
+---node 1004 sending to node 1004
+node 1004 has score 99.8974068026
+---node 1004 sending to node 1004
+node 1004 has score 99.8980062602
+---node 1004 sending to node 1004
+node 1004 has score 99.9017987576
+---node 1004 sending to node 1004
+node 1004 has score 99.9022620061
+---node 1004 sending to node 1004
+node 1004 has score 99.9027208726
+---node 1004 sending to node 1004
+node 1004 has score 99.9031754191
+---node 1004 sending to node 1004
+node 1004 has score 99.9036257063
+---node 1004 sending to node 1004
+node 1004 has score 99.9040717938
+---node 1004 sending to node 1004
+node 1004 has score 99.90451374
+---node 1004 sending to node 1004
+node 1004 has score 99.9049516024
+---node 1004 sending to node 1004
+node 1004 has score 99.9051781558
+---node 1004 sending to node 1004
+node 1004 has score 99.9076303709
+---node 1004 sending to node 1004
+node 1004 has score 99.9079455891
+---node 1004 sending to node 1004
+node 1004 has score 99.908258649
+---node 1004 sending to node 1004
+node 1004 has score 99.9085695726
+---node 1004 sending to node 1004
+node 1004 has score 99.9088783817
+---node 1004 sending to node 1004
+node 1004 has score 99.9091850977
+---node 1004 sending to node 1004
+node 1004 has score 99.909489742
+---node 1004 sending to node 1004
+node 1004 has score 99.9097923354
+---node 1004 sending to node 1004
+node 1004 has score 99.9100928986
+---node 1004 sending to node 1004
+node 1004 has score 99.9103914519
+---node 1004 sending to node 1004
+node 1004 has score 99.9106880155
+---node 1004 sending to node 1004
+node 1004 has score 99.9109826091
+---node 1004 sending to node 1004
+node 1004 has score 99.9112752524
+---node 1004 sending to node 1004
+node 1004 has score 99.9115659646
+---node 1004 sending to node 1004
+node 1004 has score 99.9118547648
+---node 1004 sending to node 1004
+node 1004 has score 99.9121416718
+---node 1004 sending to node 1004
+node 1004 has score 99.9024381221
+---node 1004 sending to node 1004
+node 1004 has score 99.9030359729
+---node 1004 sending to node 1004
+node 1004 has score 100.093170268
+---node 1004 sending to node 1004
+node 1004 has score 100.09359894
+---node 1004 sending to node 1004
+node 1004 has score 33.2630390534
+---node 1004 sending to node 1004
+node 1004 has score 33.406431681
+---node 1004 sending to node 1004
+node 1004 has score 33.5399491548
+---node 1004 sending to node 1004
+node 1004 has score 33.6743828919
+---node 1004 sending to node 1004
+node 1004 has score 33.7974269788
+---node 1004 sending to node 1004
+node 1004 has score 33.9211874242
+---node 1004 sending to node 1004
+node 1004 has score 34.0325870903
+---node 1004 sending to node 1004
+node 1004 has score 34.1445035796
+---node 1004 sending to node 1004
+node 1004 has score 34.2431003943
+---node 1004 sending to node 1004
+node 1004 has score 34.3420222206
+---node 1004 sending to node 1004
+node 1004 has score 34.4415265313
+---node 1004 sending to node 1004
+node 1004 has score 34.5413693579
+---node 1004 sending to node 1004
+node 1004 has score 34.6235216689
+---node 1004 sending to node 1004
+node 1004 has score 34.7057460585
+---node 1004 sending to node 1004
+node 1004 has score 34.776183841
+---node 1004 sending to node 1004
+node 1004 has score 34.8464633277
+---node 1004 sending to node 1004
+node 1004 has score 34.8881323112
+---node 1004 sending to node 1004
+node 1004 has score 34.9294102138
+---node 1004 sending to node 1004
+node 1004 has score 34.9514189879
+---node 1004 sending to node 1004
+node 1004 has score 34.9728599547
+---node 1004 sending to node 1004
+node 1004 has score 34.9630262307
+---node 1004 sending to node 1004
+node 1004 has score 34.9524109304
+---node 1004 sending to node 1004
+node 1004 has score 34.8911521309
+---node 1004 sending to node 1004
+node 1004 has score 34.8293109578
+---node 1004 sending to node 1004
+node 1004 has score 34.714902746
+---node 1004 sending to node 1004
+node 1004 has score 34.6005914405
+---node 1004 sending to node 1004
+node 1004 has score 34.4937788803
+---node 1004 sending to node 1004
+node 1004 has score 34.3872517251
+---node 1004 sending to node 1004
+node 1004 has score 34.2411616061
+---node 1004 sending to node 1004
+node 1004 has score 34.0960015912
+---node 1004 sending to node 1004
+node 1004 has score 33.9689565623
+---node 1004 sending to node 1004
+node 1004 has score 33.8426494983
+---node 1004 sending to node 1004
+node 1004 has score 33.6795996428
+---node 1004 sending to node 1004
+node 1004 has score 33.5179192233
+---node 1004 sending to node 1004
+node 1004 has score 33.344102655
+---node 1004 sending to node 1004
+node 1004 has score 33.1719524845
+---node 1004 sending to node 1004
+node 1004 has score 33.0316672196
+---node 1004 sending to node 1004
+node 1004 has score 32.8925329429
+---node 1004 sending to node 1004
+node 1004 has score 32.6388747292
+---node 1004 sending to node 1004
+node 1004 has score 32.4171444467
+---node 1004 sending to node 1004
+node 1004 has score 32.2407936536
+---node 1004 sending to node 1004
+node 1004 has score 32.066328877
+---node 1004 sending to node 1004
+node 1004 has score 31.9013738331
+---node 1004 sending to node 1004
+node 1004 has score 31.7381217584
+---node 1004 sending to node 1004
+node 1004 has score 31.5781722913
+---node 1004 sending to node 1004
+node 1004 has score 31.4198391287
+---node 1004 sending to node 1004
+node 1004 has score 31.2692666827
+---node 1004 sending to node 1004
+node 1004 has score 31.1201490194
+---node 1004 sending to node 1004
+node 1004 has score 30.9171405306
+---node 1004 sending to node 1004
+node 1004 has score 30.9537473063
+---node 1004 sending to node 1004
+node 1004 has score 30.9901764444
+---node 1004 sending to node 1004
+node 1004 has score 31.0264254367
+---node 1004 sending to node 1004
+node 1004 has score 31.0624917706
+---node 1004 sending to node 1004
+node 1004 has score 31.0983729292
+---node 1004 sending to node 1004
+node 1004 has score 31.1340663916
+---node 1004 sending to node 1004
+node 1004 has score 31.1695696338
+---node 1004 sending to node 1004
+node 1004 has score 31.2048801284
+---node 1004 sending to node 1004
+node 1004 has score 31.2399953454
+---node 1004 sending to node 1004
+node 1004 has score 31.2749127524
+---node 1004 sending to node 1004
+node 1004 has score 31.309629815
+---node 1004 sending to node 1004
+node 1004 has score 31.3441439974
+---node 1004 sending to node 1004
+node 1004 has score 31.3784527626
+---node 1004 sending to node 1004
+node 1004 has score 31.4125535728
+---node 1004 sending to node 1004
+node 1004 has score 31.4464438898
+---node 1004 sending to node 1004
+node 1004 has score 31.4801211755
+---node 1004 sending to node 1004
+node 1004 has score 31.5087764543
+   checking send to node 1009 score 32.774534112
+---node 1004 sending to node 1009
+---first if
+---sent message
+node 1004 has score 31.5372785119
+   checking send to node 1009 score 32.5622127761
+---node 1004 sending to node 1009
+---sent message
+node 1004 has score 31.5656258094
+   checking send to node 1009 score 32.3526547391
+---node 1004 sending to node 1009
+---sent message
+node 1004 has score 31.5938168082
+   checking send to node 1009 score 32.0941992416
+---node 1004 sending to node 1009
+---second if
+---sent message
+node 1009 has score 31.9193589545
+   checking send to node 1004 score 31.6218499703
+---node 1009 sending to node 1009
+node 1009 has score 31.89316311
+   checking send to node 1004 score 31.6774366378
+---node 1009 sending to node 1009
+node 1009 has score 31.8667926119
+   checking send to node 1004 score 31.7049870724
+---node 1009 sending to node 1009
+node 1009 has score 31.8402489777
+   checking send to node 1004 score 31.7323735294
+---node 1009 sending to node 1009
+node 1009 has score 31.8135337281
+   checking send to node 1004 score 31.7595944772
+---node 1009 sending to node 1009
+node 1009 has score 31.786648386
+   checking send to node 1004 score 0.0193333590686
+---node 1009 sending to node 1009
+node 1009 has score 31.7595944772
+   checking send to node 1004 score 0.019333355393
+---node 1009 sending to node 1009
+node 1009 has score 31.7323735294
+   checking send to node 1004 score 0.0193333480416
+---node 1009 sending to node 1009
+node 1009 has score 31.7049870724
+   checking send to node 1004 score 31.89316311
+---node 1009 sending to node 1004
+---failed to send message
+node 1009 has score 31.6774366378
+   checking send to node 1004 score 31.9193589545
+---node 1009 sending to node 1004
+---failed to send message
+node 1009 has score 31.6497237589
+   checking send to node 1004 score 0.019333356811
+---node 1009 sending to node 1009
+node 1009 has score 31.6218499704
+   checking send to node 1004 score 31.5403061169
+---node 1009 sending to node 1009
+node 1009 has score 31.5938168082
+   checking send to node 1004 score 0.019333410766
+---node 1009 sending to node 1009
+node 1009 has score 31.5656258094
+   checking send to node 1004 score 31.0783780085
+---node 1009 sending to node 1009
+node 1009 has score 31.537278512
+   checking send to node 1004 score 0.0193334647212
+---node 1009 sending to node 1009
+node 1009 has score 31.5087764543
+   checking send to node 1004 score 0.0193334647212
+---node 1009 sending to node 1009
+node 1009 has score 31.4801211755
+   checking send to node 1004 score 30.5873398353
+---node 1009 sending to node 1009
+node 1009 has score 31.4464438898
+   checking send to node 1004 score 30.3267427444
+---node 1009 sending to node 1009
+node 1009 has score 31.4125535728
+---node 1009 sending to node 1009
+node 1009 has score 31.3784527626
+---node 1009 sending to node 1009
+node 1009 has score 31.3441439974
+---node 1009 sending to node 1009
+node 1009 has score 31.309629815
+---node 1009 sending to node 1009
+node 1009 has score 31.2749127524
+---node 1009 sending to node 1009
+node 1009 has score 31.2399953454
+---node 1009 sending to node 1009
+node 1009 has score 31.2048801284
+---node 1009 sending to node 1009
+node 1009 has score 31.1695696338
+---node 1009 sending to node 1009
+node 1009 has score 31.1340663916
+---node 1009 sending to node 1009
+node 1009 has score 31.0983729291
+---node 1009 sending to node 1009
+node 1009 has score 31.0624917706
+---node 1009 sending to node 1009
+node 1009 has score 31.0264254367
+---node 1009 sending to node 1009
+node 1009 has score 30.9901764443
+---node 1009 sending to node 1009
+node 1009 has score 30.9537473063
+---node 1009 sending to node 1009
+node 1009 has score 30.9171405306
+---node 1009 sending to node 1009
+node 1009 has score 31.1201490194
+---node 1009 sending to node 1009
+node 1009 has score 31.2692666827
+---node 1009 sending to node 1009
+node 1009 has score 31.4198391287
+---node 1009 sending to node 1009
+node 1009 has score 31.5781722913
+---node 1009 sending to node 1009
+node 1009 has score 31.7381217584
+---node 1009 sending to node 1009
+node 1009 has score 31.9013738331
+---node 1009 sending to node 1009
+node 1009 has score 32.066328877
+---node 1009 sending to node 1009
+node 1009 has score 32.2407936536
+---node 1009 sending to node 1009
+node 1009 has score 32.4171444467
+---node 1009 sending to node 1009
+node 1009 has score 32.6388747292
+---node 1009 sending to node 1009
+node 1009 has score 32.8925329429
+---node 1009 sending to node 1009
+node 1009 has score 32.8925329429
+---node 1009 sending to node 1009
+node 1009 has score 33.0316672195
+---node 1009 sending to node 1009
+node 1009 has score 33.1719524845
+---node 1009 sending to node 1009
+node 1009 has score 33.344102655
+---node 1009 sending to node 1009
+node 1009 has score 33.5179192233
+---node 1009 sending to node 1009
+node 1009 has score 33.6795996428
+---node 1009 sending to node 1009
+node 1009 has score 33.8426494983
+---node 1009 sending to node 1009
+node 1009 has score 33.9689565623
+---node 1009 sending to node 1009
+node 1009 has score 34.0960015912
+---node 1009 sending to node 1009
+node 1009 has score 34.2411616061
+---node 1009 sending to node 1009
+node 1009 has score 34.3872517251
+---node 1009 sending to node 1009
+node 1009 has score 34.4937788803
+---node 1009 sending to node 1009
+node 1009 has score 34.6005914405
+---node 1009 sending to node 1009
+node 1009 has score 34.714902746
+---node 1009 sending to node 1009
+node 1009 has score 34.8293109578
+---node 1009 sending to node 1009
+node 1009 has score 34.891152131
+---node 1009 sending to node 1009
+node 1009 has score 34.9524109304
+---node 1009 sending to node 1009
+node 1009 has score 34.9630262307
+---node 1009 sending to node 1009
+node 1009 has score 34.9728599547
+---node 1009 sending to node 1009
+node 1009 has score 34.9514189879
+---node 1009 sending to node 1009
+node 1009 has score 34.9294102138
+---node 1009 sending to node 1009
+node 1009 has score 34.8881323112
+---node 1009 sending to node 1009
+node 1009 has score 34.8464633277
+---node 1009 sending to node 1009
+node 1009 has score 34.776183841
+---node 1009 sending to node 1009
+node 1009 has score 34.7057460585
+---node 1009 sending to node 1009
+node 1009 has score 34.6235216689
+---node 1009 sending to node 1009
+node 1009 has score 34.5413693579
+---node 1009 sending to node 1009
+node 1009 has score 34.4415265314
+---node 1009 sending to node 1009
+node 1009 has score 34.3420222206
+---node 1009 sending to node 1009
+node 1009 has score 34.2431003943
+---node 1009 sending to node 1009
+node 1009 has score 34.1445035796
+---node 1009 sending to node 1009
+node 1009 has score 34.0325870903
+---node 1009 sending to node 1009
+node 1009 has score 33.9211874242
+---node 1009 sending to node 1009
+node 1009 has score 33.7974269788
+---node 1009 sending to node 1009
+node 1009 has score 33.6743828919
+---node 1009 sending to node 1009
+node 1009 has score 33.5399491548
+---node 1009 sending to node 1009
+node 1009 has score 33.406431681
+---node 1009 sending to node 1009
+node 1009 has score 33.2630390534
+---node 1009 sending to node 1009
+node 1009 has score 33.1207923981
+---node 1009 sending to node 1009
+node 1009 has score 32.9697193404
+---node 1009 sending to node 1009
+node 1009 has score 32.8200377435
+---node 1009 sending to node 1009
+node 1009 has score 33.0220215797
+---node 1009 sending to node 1009
+node 1009 has score 33.2265434172
+---node 1009 sending to node 1009
+node 1009 has score 33.3342897607
+---node 1009 sending to node 1009
+node 1009 has score 33.4427471607
+---node 1009 sending to node 1009
+node 1009 has score 33.5519226798
+---node 1009 sending to node 1009
+node 1009 has score 33.6618234745
+---node 1009 sending to node 1009
+node 1009 has score 33.7724567968
+---node 1009 sending to node 1009
+node 1009 has score 33.8838299955
+---node 1009 sending to node 1009
+node 1009 has score 33.9959505181
+---node 1009 sending to node 1009
+node 1009 has score 34.1088259125
+---node 1009 sending to node 1009
+node 1009 has score 34.2224638285
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 34.3368720196
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 34.4520583447
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 34.5680307702
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 34.6847973715
+---node 1009 sending to node 1009
+node 1009 has score 34.8023663349
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 34.9207459596
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 35.03994466
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 35.1315517256
+---node 1009 sending to node 1009
+node 1009 has score 35.2924718113
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 35.4548928906
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 35.6188360642
+---node 1009 sending to node 1009
+node 1009 has score 35.7843228304
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 35.9513750941
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 36.1200151769
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 36.2902658265
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 36.4621502274
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 36.6755679742
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 36.8915316139
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 37.0538389218
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 37.2175992043
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 37.3828320613
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 37.5495574463
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 37.717795675
+---node 1009 sending to node 1009
+node 1009 has score 37.8875674337
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 38.0588937874
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 38.2317961887
+---node 1009 sending to node 1009
+node 1009 has score 38.4598266657
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 38.6906279197
+---node 1009 sending to node 1009
+found a basestation 501 2: 51.538216, -0.160815, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1009 has score 38.9242507634
+---node 1009 sending to node 1009
+node 1009 has score 39.1607472601
+---node 1009 sending to node 1009
+node 1009 has score 39.4001707615
+---node 1009 sending to node 1009
+node 1009 has score 39.6425759484
+---node 1009 sending to node 1009
+node 1009 has score 39.8880188721
+---node 1009 sending to node 1009
+node 1009 has score 40.1365569978
+---node 1009 sending to node 1009
+node 1009 has score 40.3882492493
+---node 1009 sending to node 1009
+node 1009 has score 40.6431560554
+---node 1009 sending to node 1009
+node 1009 has score 40.9013393988
+---node 1009 sending to node 1009
+node 1009 has score 41.1628628657
+---node 1009 sending to node 1009
+node 1009 has score 41.4277916985
+---node 1009 sending to node 1009
+node 1009 has score 41.6961928499
+---node 1009 sending to node 1009
+node 1009 has score 41.9681350394
+---node 1009 sending to node 1009
+node 1009 has score 42.2436888116
+---node 1009 sending to node 1009
+node 1009 has score 42.6639694414
+---node 1009 sending to node 1009
+node 1009 has score 43.0927931179
+---node 1009 sending to node 1009
+node 1009 has score 43.5304230104
+---node 1009 sending to node 1009
+node 1009 has score 43.9771332101
+---node 1009 sending to node 1009
+node 1009 has score 44.4332093018
+---node 1009 sending to node 1009
+node 1009 has score 44.8989489731
+---node 1009 sending to node 1009
+node 1009 has score 45.3746626626
+---node 1009 sending to node 1009
+node 1009 has score 45.8606742498
+---node 1009 sending to node 1009
+node 1009 has score 46.3573217901
+---node 1009 sending to node 1009
+node 1009 has score 46.8649582999
+---node 1009 sending to node 1009
+node 1009 has score 47.3839525923
+---node 1009 sending to node 1009
+node 1009 has score 47.9146901721
+---node 1009 sending to node 1009
+node 1009 has score 48.4575741893
+---node 1009 sending to node 1009
+node 1009 has score 49.0130264617
+---node 1009 sending to node 1009
+node 1009 has score 49.5814885674
+---node 1009 sending to node 1009
+node 1009 has score 50.1634230159
+---node 1009 sending to node 1009
+node 1009 has score 50.5889805804
+---node 1009 sending to node 1009
+node 1009 has score 51.0218901283
+---node 1009 sending to node 1009
+node 1009 has score 51.462343847
+---node 1009 sending to node 1009
+node 1009 has score 51.9105406815
+---node 1009 sending to node 1009
+node 1009 has score 52.366686634
+---node 1009 sending to node 1009
+node 1009 has score 52.8309950794
+---node 1009 sending to node 1009
+node 1009 has score 53.3036870982
+---node 1009 sending to node 1009
+node 1009 has score 53.7849918278
+---node 1009 sending to node 1009
+node 1009 has score 54.2751468325
+---node 1009 sending to node 1009
+node 1009 has score 54.7743984948
+---node 1009 sending to node 1009
+node 1009 has score 55.2830024281
+---node 1009 sending to node 1009
+node 1009 has score 55.8012239133
+---node 1009 sending to node 1009
+node 1009 has score 56.3293383601
+---node 1009 sending to node 1009
+node 1009 has score 56.8676317952
+---node 1009 sending to node 1009
+node 1009 has score 57.4164013786
+---node 1009 sending to node 1009
+node 1009 has score 57.9759559512
+---node 1009 sending to node 1009
+node 1009 has score 58.5466166135
+---node 1009 sending to node 1009
+node 1009 has score 59.1287173409
+---node 1009 sending to node 1009
+node 1009 has score 59.7226056355
+---node 1009 sending to node 1009
+node 1009 has score 60.3286432167
+---node 1009 sending to node 1009
+node 1009 has score 60.9472067576
+---node 1009 sending to node 1009
+node 1009 has score 61.5786886646
+---node 1009 sending to node 1009
+node 1009 has score 62.2234979078
+---node 1009 sending to node 1009
+node 1009 has score 62.8820609045
+---node 1009 sending to node 1009
+node 1009 has score 63.5548224593
+---node 1009 sending to node 1009
+node 1009 has score 64.2422467661
+---node 1009 sending to node 1009
+node 1009 has score 64.9448184768
+---node 1009 sending to node 1009
+node 1009 has score 65.6630438395
+---node 1009 sending to node 1009
+node 1009 has score 66.3974519166
+---node 1009 sending to node 1009
+node 1009 has score 67.1485958837
+---node 1009 sending to node 1009
+node 1009 has score 67.9170544188
+---node 1009 sending to node 1009
+node 1009 has score 68.7034331904
+---node 1009 sending to node 1009
+node 1009 has score 69.5083664482
+---node 1009 sending to node 1009
+node 1009 has score 70.3325187302
+---node 1009 sending to node 1009
+node 1009 has score 71.1765866923
+---node 1009 sending to node 1009
+node 1009 has score 72.0413010722
+---node 1009 sending to node 1009
+node 1009 has score 72.9274287992
+---node 1009 sending to node 1009
+node 1009 has score 73.8357752634
+---node 1009 sending to node 1009
+node 1009 has score 74.7671867572
+---node 1009 sending to node 1009
+node 1009 has score 75.7225531044
+---node 1009 sending to node 1009
+node 1009 has score 76.7028104973
+---node 1009 sending to node 1009
+node 1009 has score 77.7089445549
+---node 1009 sending to node 1009
+node 1009 has score 78.7419936305
+---node 1009 sending to node 1009
+node 1009 has score 79.8030523842
+---node 1009 sending to node 1009
+node 1009 has score 80.8932756536
+---node 1009 sending to node 1009
+node 1009 has score 82.0138826466
+---node 1009 sending to node 1009
+node 1009 has score 83.1661614883
+---node 1009 sending to node 1009
+node 1009 has score 84.3514741622
+---node 1009 sending to node 1009
+node 1009 has score 85.5712618798
+---node 1009 sending to node 1009
+node 1009 has score 86.8270509259
+---node 1009 sending to node 1009
+node 1009 has score 88.1204590315
+---node 1009 sending to node 1009
+node 1009 has score 89.4532023261
+---node 1009 sending to node 1009
+node 1009 has score 90.8271029338
+---node 1009 sending to node 1009
+node 1009 has score 92.2440972852
+---node 1009 sending to node 1009
+node 1009 has score 93.7062452236
+---node 1009 sending to node 1009
+node 1009 has score 95.2157399971
+---node 1009 sending to node 1009
+node 1009 has score 96.7749192348
+---node 1009 sending to node 1009
+node 1009 has score 98.386277026
+---node 1009 sending to node 1009
+node 1009 has score 0.052477235048
+   checking send to node 1000 score 0.0193306597448
+---node 1009 sending to node 1009
+node 1009 has score 1.77636819419
+   checking send to node 1000 score 0.019330667123
+---node 1009 sending to node 1009
+node 1009 has score 3.56099895713
+   checking send to node 1000 score 23.623969816
+---node 1009 sending to node 1000
+---first if
+---sent message
+node 1009 has score 5.40963729217
+   checking send to node 1000 score 0.0193306818793
+---node 1009 sending to node 1009
+node 1009 has score 7.3257896533
+   checking send to node 1000 score 0.0193306818793
+---node 1009 sending to node 1009
+node 1009 has score 9.31322338108
+   checking send to node 1000 score 0.0193306892574
+---node 1009 sending to node 1009
+node 1009 has score 11.6174457968
+   checking send to node 1000 score 0.0193306966354
+---node 1009 sending to node 1009
+node 1009 has score 14.0213445303
+   checking send to node 1000 score 18.9540187416
+---node 1009 sending to node 1000
+---second if
+---sent message
+node 1000 has score 17.8413432892
+   checking send to node 1009 score 0.0193307415985
+---node 1000 sending to node 1000
+node 1000 has score 16.7493690239
+   checking send to node 1009 score 16.7493690239
+---node 1000 sending to node 1000
+node 1000 has score 99.6927151666
+   checking send to node 1009 score 0.0193306893951
+---node 1000 sending to node 1000
+node 1000 has score 11.6174457968
+   checking send to node 1009 score 24.2654553052
+---node 1000 sending to node 1009
+---failed to send message
+node 1000 has score 9.31322338108
+   checking send to node 1009 score 28.4000547951
+---node 1000 sending to node 1009
+---failed to send message
+node 1000 has score 99.711108383
+   checking send to node 1009 score 0.0193306012733
+---node 1000 sending to node 1000
+node 1000 has score 99.7162663268
+   checking send to node 1009 score 0.0193306012733
+---node 1000 sending to node 1000
+node 1000 has score 99.7212425348
+   checking send to node 1009 score 0.0193305718995
+---node 1000 sending to node 1000
+node 1000 has score 99.7260464458
+   checking send to node 1009 score 0.0193305425259
+---node 1000 sending to node 1000
+node 1000 has score 99.730686856
+   checking send to node 1009 score 0.0193305425259
+---node 1000 sending to node 1000
+node 1000 has score 99.7351719729
+---node 1000 sending to node 1000
+node 1000 has score 99.7395094638
+---node 1000 sending to node 1000
+node 1000 has score 99.7437064993
+---node 1000 sending to node 1000
+node 1000 has score 99.747769793
+---node 1000 sending to node 1000
+node 1000 has score 99.7517056374
+---node 1000 sending to node 1000
+node 1000 has score 99.7555199364
+---node 1000 sending to node 1000
+node 1000 has score 99.7592182346
+---node 1000 sending to node 1000
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7628057447
+---node 1000 sending to node 1000
+node 1000 has score 99.7662873714
+---node 1000 sending to node 1000
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7696677343
+---node 1000 sending to node 1000
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.772951188
+---node 1000 sending to node 1000
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.776141841
+---node 1000 sending to node 1000
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7792435728
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7822600496
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7851947388
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7880509223
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7908317087
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7935400446
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7961787252
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.7987504035
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8012575995
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8037027086
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8060880088
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8084156681
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8106877509
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8129062242
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8150729633
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.817189757
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8192583126
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8212802605
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8232571583
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8251904951
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8270816951
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8289321209
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8307430772
+---node 1000 sending to node 1000
+found a basestation 502 2: 51.538285, -0.159524, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+found a basestation 503 2: 51.5383, -0.158339, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1007 which has queue []
+node 1000 has score 99.8325158135
+---node 1000 sending to node 1000
+node 1000 has score 99.8342515272
+---node 1000 sending to node 1000
+node 1000 has score 99.835951366
+---node 1000 sending to node 1000
+node 1000 has score 99.8376164309
+---node 1000 sending to node 1000
+node 1000 has score 99.8392477781
+---node 1000 sending to node 1000
+node 1000 has score 99.8408464216
+---node 1000 sending to node 1000
+node 1000 has score 99.842413335
+---node 1000 sending to node 1000
+node 1000 has score 99.8439494539
+---node 1000 sending to node 1000
+node 1000 has score 99.8454556771
+---node 1000 sending to node 1000
+node 1000 has score 99.846932869
+---node 1000 sending to node 1000
+node 1000 has score 99.848381861
+---node 1000 sending to node 1000
+node 1000 has score 99.8498034529
+---node 1000 sending to node 1000
+node 1000 has score 99.8511984148
+---node 1000 sending to node 1000
+node 1000 has score 99.8525674879
+---node 1000 sending to node 1000
+node 1000 has score 99.8539113864
+---node 1000 sending to node 1000
+node 1000 has score 99.8552307983
+---node 1000 sending to node 1000
+node 1000 has score 99.8565263868
+---node 1000 sending to node 1000
+node 1000 has score 99.8577987914
+---node 1000 sending to node 1000
+node 1000 has score 99.8590486289
+---node 1000 sending to node 1000
+node 1000 has score 99.8602764944
+---node 1000 sending to node 1000
+node 1000 has score 99.8614829624
+---node 1000 sending to node 1000
+node 1000 has score 99.8626685872
+---node 1000 sending to node 1000
+node 1000 has score 99.8638339045
+---node 1000 sending to node 1000
+node 1000 has score 99.8649794315
+---node 1000 sending to node 1000
+node 1000 has score 50.2982588884
+---node 1000 sending to node 1000
+node 1000 has score 50.4338275572
+---node 1000 sending to node 1000
+node 1000 has score 50.5701350124
+---node 1000 sending to node 1000
+node 1000 has score 50.7071873101
+---node 1000 sending to node 1000
+node 1000 has score 50.8449905722
+---node 1000 sending to node 1000
+node 1000 has score 50.9835509882
+---node 1000 sending to node 1000
+node 1000 has score 51.1228748156
+---node 1000 sending to node 1000
+node 1000 has score 51.2629683813
+---node 1000 sending to node 1000
+node 1000 has score 51.4038380821
+---node 1000 sending to node 1000
+node 1000 has score 51.5454903859
+---node 1000 sending to node 1000
+node 1000 has score 51.6879318328
+---node 1000 sending to node 1000
+node 1000 has score 51.8311690361
+---node 1000 sending to node 1000
+node 1000 has score 51.9752086827
+---node 1000 sending to node 1000
+node 1000 has score 52.1200575348
+---node 1000 sending to node 1000
+node 1000 has score 52.2657224312
+---node 1000 sending to node 1000
+node 1000 has score 52.4122102877
+---node 1000 sending to node 1000
+node 1000 has score 51.8920017126
+---node 1000 sending to node 1000
+node 1000 has score 51.3821102042
+---node 1000 sending to node 1000
+node 1000 has score 50.8822318453
+---node 1000 sending to node 1000
+node 1000 has score 50.39207454
+---node 1000 sending to node 1000
+node 1000 has score 49.9113574436
+---node 1000 sending to node 1000
+node 1000 has score 49.4398104269
+---node 1000 sending to node 1000
+node 1000 has score 48.9771735695
+---node 1000 sending to node 1000
+node 1000 has score 48.5231966819
+---node 1000 sending to node 1000
+node 1000 has score 48.0776388547
+---node 1000 sending to node 1000
+node 1000 has score 47.640268032
+---node 1000 sending to node 1000
+node 1000 has score 47.2108606087
+---node 1000 sending to node 1000
+node 1000 has score 46.7892010491
+---node 1000 sending to node 1000
+node 1000 has score 46.375081526
+---node 1000 sending to node 1000
+node 1000 has score 45.9683015794
+---node 1000 sending to node 1000
+node 1000 has score 45.5686677927
+---node 1000 sending to node 1000
+node 1000 has score 45.1759934864
+---node 1000 sending to node 1000
+node 1000 has score 44.7828835689
+---node 1000 sending to node 1000
+node 1000 has score 44.3966270306
+---node 1000 sending to node 1000
+node 1000 has score 44.0170461924
+---node 1000 sending to node 1000
+node 1000 has score 43.6439694646
+---node 1000 sending to node 1000
+node 1000 has score 43.277231088
+---node 1000 sending to node 1000
+node 1000 has score 42.9166708885
+---node 1000 sending to node 1000
+node 1000 has score 42.562134044
+---node 1000 sending to node 1000
+node 1000 has score 42.2134708627
+---node 1000 sending to node 1000
+node 1000 has score 41.9425873785
+---node 1000 sending to node 1000
+node 1000 has score 41.6751969865
+---node 1000 sending to node 1000
+node 1000 has score 41.4112325501
+---node 1000 sending to node 1000
+node 1000 has score 41.1506286423
+---node 1000 sending to node 1000
+node 1000 has score 40.8933214915
+---node 1000 sending to node 1000
+node 1000 has score 40.6392489293
+---node 1000 sending to node 1000
+node 1000 has score 40.3883503412
+---node 1000 sending to node 1000
+node 1000 has score 40.1405666171
+---node 1000 sending to node 1000
+node 1000 has score 39.8759123311
+---node 1000 sending to node 1000
+node 1000 has score 39.6147659107
+---node 1000 sending to node 1000
+node 1000 has score 39.3570580686
+---node 1000 sending to node 1000
+node 1000 has score 39.1027213304
+---node 1000 sending to node 1000
+node 1000 has score 38.8516899755
+---node 1000 sending to node 1000
+node 1000 has score 38.6038999806
+---node 1000 sending to node 1000
+node 1000 has score 38.3592889655
+---node 1000 sending to node 1000
+node 1000 has score 38.1177961401
+---node 1000 sending to node 1000
+node 1000 has score 99.8982371806
+---node 1000 sending to node 1000
+node 1000 has score 99.8988462862
+---node 1000 sending to node 1000
+node 1000 has score 99.8994480546
+---node 1000 sending to node 1000
+node 1000 has score 99.9000426174
+---node 1000 sending to node 1000
+node 1000 has score 99.9008209284
+---node 1000 sending to node 1000
+node 1000 has score 99.9016166653
+---node 1000 sending to node 1000
+node 1000 has score 36.5053383924
+---node 1000 sending to node 1000
+node 1000 has score 36.3923000729
+---node 1000 sending to node 1000
+node 1000 has score 36.2799685772
+---node 1000 sending to node 1000
+node 1000 has score 36.1683372961
+---node 1000 sending to node 1000
+node 1000 has score 36.0457852679
+---node 1000 sending to node 1000
+node 1000 has score 35.9240716329
+---node 1000 sending to node 1000
+node 1000 has score 35.6983000109
+---node 1000 sending to node 1000
+node 1000 has score 35.7862284245
+---node 1000 sending to node 1000
+node 1000 has score 35.7570112516
+---node 1000 sending to node 1000
+node 1000 has score 35.597386347
+---node 1000 sending to node 1000
+node 1000 has score 35.4454991189
+---node 1000 sending to node 1000
+node 1000 has score 35.2946653993
+---node 1000 sending to node 1000
+node 1000 has score 35.1434521831
+---node 1000 sending to node 1000
+node 1000 has score 34.99330497
+---node 1000 sending to node 1000
+node 1000 has score 34.8202204692
+---node 1000 sending to node 1000
+node 1000 has score 34.648832253
+---node 1000 sending to node 1000
+node 1000 has score 34.4791159476
+---node 1000 sending to node 1000
+node 1000 has score 34.3110476351
+---node 1000 sending to node 1000
+node 1000 has score 34.1446038431
+---node 1000 sending to node 1000
+node 1000 has score 33.9797615347
+---node 1000 sending to node 1000
+node 1000 has score 33.8164980983
+---node 1000 sending to node 1000
+node 1000 has score 33.6547913383
+---node 1000 sending to node 1000
+node 1000 has score 33.45039739
+---node 1000 sending to node 1000
+node 1000 has score 33.2484301179
+---node 1000 sending to node 1000
+node 1000 has score 99.9111536549
+---node 1000 sending to node 1000
+node 1000 has score 99.9115936265
+---node 1000 sending to node 1000
+node 1000 has score 99.912029201
+---node 1000 sending to node 1000
+node 1000 has score 99.912460444
+---node 1000 sending to node 1000
+node 1000 has score 99.9127015416
+---node 1000 sending to node 1000
+node 1000 has score 99.9133162014
+---node 1000 sending to node 1000
+node 1000 has score 99.9145989119
+---node 1000 sending to node 1000
+node 1000 has score 99.915028868
+---node 1000 sending to node 1000
+node 1000 has score 99.917093044
+---node 1000 sending to node 1000
+node 1000 has score 99.9175866892
+---node 1000 sending to node 1000
+node 1000 has score 99.9204789118
+---node 1000 sending to node 1000
+node 1000 has score 99.9208366678
+---node 1000 sending to node 1000
+node 1000 has score 99.9211911819
+---node 1000 sending to node 1000
+node 1000 has score 99.921542498
+---node 1000 sending to node 1000
+node 1000 has score 99.9218906592
+---node 1000 sending to node 1000
+node 1000 has score 99.9222357078
+---node 1000 sending to node 1000
+node 1000 has score 99.9225776854
+---node 1000 sending to node 1000
+node 1000 has score 99.9229166328
+---node 1000 sending to node 1000
+node 1000 has score 99.9304623393
+---node 1000 sending to node 1000
+node 1000 has score 99.9307007131
+---node 1000 sending to node 1000
+node 1000 has score 99.9309374468
+---node 1000 sending to node 1000
+node 1000 has score 99.9311725574
+---node 1000 sending to node 1000
+node 1000 has score 99.9314060614
+---node 1000 sending to node 1000
+node 1000 has score 99.9316379752
+---node 1000 sending to node 1000
+node 1000 has score 99.9318683151
+---node 1000 sending to node 1000
+node 1000 has score 99.9320970971
+---node 1000 sending to node 1000
+node 1000 has score 99.9360688153
+---node 1000 sending to node 1000
+node 1000 has score 99.9363137252
+---node 1000 sending to node 1000
+node 1000 has score 99.936556757
+---node 1000 sending to node 1000
+node 1000 has score 99.9367979323
+---node 1000 sending to node 1000
+node 1000 has score 99.9305469216
+---node 1000 sending to node 1000
+node 1000 has score 99.9307692097
+---node 1000 sending to node 1000
+node 1000 has score 99.9309900664
+---node 1000 sending to node 1000
+node 1000 has score 99.9312095053
+---node 1000 sending to node 1000
+node 1000 has score 99.9248386226
+---node 1000 sending to node 1000
+node 1000 has score 99.9251941261
+---node 1000 sending to node 1000
+node 1000 has score 99.9255462328
+---node 1000 sending to node 1000
+node 1000 has score 99.925894991
+---node 1000 sending to node 1000
+node 1000 has score 99.9262404483
+---node 1000 sending to node 1000
+node 1000 has score 99.9265826513
+---node 1000 sending to node 1000
+node 1000 has score 99.9269216459
+---node 1000 sending to node 1000
+node 1000 has score 99.9272574769
+---node 1000 sending to node 1000
+node 1000 has score 99.9275901884
+---node 1000 sending to node 1000
+node 1000 has score 99.9279198237
+---node 1000 sending to node 1000
+node 1000 has score 99.9282464253
+---node 1000 sending to node 1000
+node 1000 has score 99.9285700349
+---node 1000 sending to node 1000
+node 1000 has score 99.9288906934
+---node 1000 sending to node 1000
+node 1000 has score 99.9292084409
+---node 1000 sending to node 1000
+node 1000 has score 99.929523317
+---node 1000 sending to node 1000
+node 1000 has score 99.9298353605
+---node 1000 sending to node 1000
+node 1000 has score 99.9300779777
+---node 1000 sending to node 1000
+node 1000 has score 99.9303998153
+---node 1000 sending to node 1000
+node 1000 has score 99.9307186563
+---node 1000 sending to node 1000
+node 1000 has score 99.9310345425
+---node 1000 sending to node 1000
+node 1000 has score 99.9313475147
+---node 1000 sending to node 1000
+node 1000 has score 99.9316576131
+---node 1000 sending to node 1000
+node 1000 has score 99.9319648771
+---node 1000 sending to node 1000
+node 1000 has score 99.9322693453
+---node 1000 sending to node 1000
+node 1000 has score 99.9328085031
+---node 1000 sending to node 1000
+node 1000 has score 99.9331607131
+---node 1000 sending to node 1000
+node 1000 has score 99.9335091895
+---node 1000 sending to node 1000
+node 1000 has score 99.9338539912
+---node 1000 sending to node 1000
+node 1000 has score 99.9341951762
+---node 1000 sending to node 1000
+node 1000 has score 99.934532801
+---node 1000 sending to node 1000
+node 1000 has score 99.9348669211
+---node 1000 sending to node 1000
+node 1000 has score 99.9351975908
+---node 1000 sending to node 1000
+node 1000 has score 24.6867801344
+---node 1000 sending to node 1000
+node 1000 has score 99.9367153686
+---node 1000 sending to node 1000
+node 1000 has score 99.9370930195
+---node 1000 sending to node 1000
+node 1000 has score 99.937466119
+---node 1000 sending to node 1000
+node 1000 has score 99.9378347489
+---node 1000 sending to node 1000
+node 1000 has score 99.9378595867
+---node 1000 sending to node 1000
+node 1000 has score 99.9380659389
+---node 1000 sending to node 1000
+node 1000 has score 99.9382709028
+---node 1000 sending to node 1000
+node 1000 has score 99.9384744923
+---node 1000 sending to node 1000
+node 1000 has score 99.943102404
+---node 1000 sending to node 1000
+node 1000 has score 99.9433525308
+---node 1000 sending to node 1000
+node 1000 has score 99.943600443
+---node 1000 sending to node 1000
+node 1000 has score 99.9438461699
+---node 1000 sending to node 1000
+node 1000 has score 100.059821072
+---node 1000 sending to node 1000
+node 1000 has score 100.05960673
+---node 1000 sending to node 1000
+node 1000 has score 100.05982883
+---node 1000 sending to node 1000
+node 1000 has score 100.060052616
+---node 1000 sending to node 1000
+node 1000 has score 100.060278108
+---node 1000 sending to node 1000
+node 1000 has score 100.060416201
+---node 1000 sending to node 1000
+node 1000 has score 24.0188312217
+---node 1000 sending to node 1000
+node 1000 has score 24.1550982849
+---node 1000 sending to node 1000
+node 1000 has score 24.2892879004
+---node 1000 sending to node 1000
+node 1000 has score 24.4250064364
+---node 1000 sending to node 1000
+node 1000 has score 24.5638582183
+---node 1000 sending to node 1000
+node 1000 has score 24.7043288237
+---node 1000 sending to node 1000
+node 1000 has score 24.8251640223
+---node 1000 sending to node 1000
+node 1000 has score 24.9472100891
+---node 1000 sending to node 1000
+node 1000 has score 100.067453459
+---node 1000 sending to node 1000
+node 1000 has score 100.067882133
+---node 1000 sending to node 1000
+node 1000 has score 100.067948484
+---node 1000 sending to node 1000
+node 1000 has score 100.068305748
+---node 1000 sending to node 1000
+node 1000 has score 100.068666858
+---node 1000 sending to node 1000
+node 1000 has score 100.069031876
+---node 1000 sending to node 1000
+node 1000 has score 100.068606873
+---node 1000 sending to node 1000
+node 1000 has score 100.069054034
+---node 1000 sending to node 1000
+node 1000 has score 100.069507161
+---node 1000 sending to node 1000
+node 1000 has score 100.069966374
+---node 1000 sending to node 1000
+node 1000 has score 100.067737286
+---node 1000 sending to node 1000
+node 1000 has score 100.068104673
+---node 1000 sending to node 1000
+node 1000 has score 100.062429633
+---node 1000 sending to node 1000
+node 1000 has score 100.062636991
+---node 1000 sending to node 1000
+node 1000 has score 100.060305886
+---node 1000 sending to node 1000
+node 1000 has score 100.060499623
+---node 1000 sending to node 1000
+node 1000 has score 100.060694616
+---node 1000 sending to node 1000
+node 1000 has score 100.060890878
+---node 1000 sending to node 1000
+node 1000 has score 100.048653841
+---node 1000 sending to node 1000
+node 1000 has score 100.048739474
+---node 1000 sending to node 1000
+node 1000 has score 100.048825409
+---node 1000 sending to node 1000
+node 1000 has score 100.048911646
+---node 1000 sending to node 1000
+node 1000 has score 100.046139136
+---node 1000 sending to node 1000
+node 1000 has score 100.04621334
+---node 1000 sending to node 1000
+node 1000 has score 100.046287783
+---node 1000 sending to node 1000
+node 1000 has score 100.046362465
+---node 1000 sending to node 1000
+node 1000 has score 100.046437387
+---node 1000 sending to node 1000
+node 1000 has score 100.046512552
+---node 1000 sending to node 1000
+node 1000 has score 100.046587959
+---node 1000 sending to node 1000
+node 1000 has score 100.04666361
+---node 1000 sending to node 1000
+node 1000 has score 100.052683089
+---node 1000 sending to node 1000
+node 1000 has score 100.052787516
+---node 1000 sending to node 1000
+node 1000 has score 28.0860851951
+---node 1000 sending to node 1000
+node 1000 has score 28.2374687656
+---node 1000 sending to node 1000
+node 1000 has score 28.370536902
+---node 1000 sending to node 1000
+node 1000 has score 28.5048864676
+---node 1000 sending to node 1000
+node 1000 has score 28.558399482
+---node 1000 sending to node 1000
+node 1000 has score 28.7133935829
+---node 1000 sending to node 1000
+node 1000 has score 28.8975399319
+---node 1000 sending to node 1000
+node 1000 has score 29.0740913535
+---node 1000 sending to node 1000
+node 1000 has score 29.2528493338
+---node 1000 sending to node 1000
+node 1000 has score 29.4365637171
+---node 1000 sending to node 1000
+node 1000 has score 29.622638272
+---node 1000 sending to node 1000
+node 1000 has score 29.812288914
+---node 1000 sending to node 1000
+node 1000 has score 30.004423135
+---node 1000 sending to node 1000
+node 1000 has score 100.081413525
+---node 1000 sending to node 1000
+node 1000 has score 100.081944481
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.082280312
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.082818816
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.082980786
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083521066
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083491874
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.08402897
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083559732
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083913299
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.084276847
+---node 1000 sending to node 1000
+node 1000 has score 100.084021682
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083899935
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083634525
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.083238887
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 33.0220215797
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 33.2265434172
+---node 1000 sending to node 1000
+node 1000 has score 100.087568447
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.088068993
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.088575367
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.089087672
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.089606012
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 100.090130495
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 34.5933623791
+---node 1000 sending to node 1000
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 34.7979045696
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 35.0470615883
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 35.2995054301
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 35.5552931475
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 35.8144828272
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 36.0771335991
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 36.343305645
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 36.6130602052
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 36.8864595846
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 37.0497899267
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 37.2144458234
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 37.3804413491
+---node 1000 sending to node 1000
+node 1000 has score 37.5477907332
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 37.71650836
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 37.8866087697
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 38.0581066593
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 38.2310168827
+---node 1000 sending to node 1000
+node 1000 has score 38.4581094931
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 38.6872998357
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+found a basestation 505 2: 51.53836, -0.156011, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 38.9458267884
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 39.2072249948
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 39.4108198329
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 39.6160391693
+---node 1000 sending to node 1000
+found a basestation 504 2: 51.538338, -0.156965, 08:00:00.000000, 15:13:21.000000, 9999999 with node 1008 which has queue []
+node 1000 has score 39.8228922804
+---node 1000 sending to node 1000
+node 1000 has score 40.0313881769
+---node 1000 sending to node 1000
+node 1000 has score 40.1283098731
+---node 1000 sending to node 1000
+node 1000 has score 40.2252916077
+---node 1000 sending to node 1000
+node 1000 has score 40.3223277911
+---node 1000 sending to node 1000
+node 1000 has score 40.4194127303
+---node 1000 sending to node 1000
+node 1000 has score 40.4513401805
+---node 1000 sending to node 1000
+node 1000 has score 40.4829012167
+---node 1000 sending to node 1000
+node 1000 has score 40.5140930237
+---node 1000 sending to node 1000
+node 1000 has score 40.5449128074
+---node 1000 sending to node 1000
+node 1000 has score 40.4853478153
+---node 1000 sending to node 1000
+node 1000 has score 40.4254096486
+---node 1000 sending to node 1000
+node 1000 has score 40.3651048214
+---node 1000 sending to node 1000
+node 1000 has score 40.3044398319
+---node 1000 sending to node 1000
+node 1000 has score 40.2812435351
+---node 1000 sending to node 1000
+node 1000 has score 40.2571439296
+---node 1000 sending to node 1000
+node 1000 has score 40.2731782221
+---node 1000 sending to node 1000
+node 1000 has score 40.2888218173
+---node 1000 sending to node 1000
+node 1000 has score 40.3040733177
+---node 1000 sending to node 1000
+node 1000 has score 40.318931358
+---node 1000 sending to node 1000
+node 1000 has score 40.1388599128
+---node 1000 sending to node 1000
+node 1000 has score 39.9599630327
+---node 1000 sending to node 1000
+node 1000 has score 39.7822365852
+---node 1000 sending to node 1000
+node 1000 has score 39.6056762457
+---node 1000 sending to node 1000
+node 1000 has score 39.4302775066
+---node 1000 sending to node 1000
+node 1000 has score 39.2560356871
+---node 1000 sending to node 1000
+node 1000 has score 39.0829459419
+---node 1000 sending to node 1000
+node 1000 has score 38.9110032702
+---node 1000 sending to node 1000
+node 1000 has score 38.7568262232
+---node 1000 sending to node 1000
+node 1000 has score 38.6036783582
+---node 1000 sending to node 1000
+node 1000 has score 38.4515520684
+---node 1000 sending to node 1000
+node 1000 has score 38.3004397668
+---node 1000 sending to node 1000
+node 1000 has score 38.1503338883
+---node 1000 sending to node 1000
+node 1000 has score 38.0012268913
+---node 1000 sending to node 1000
+node 1000 has score 37.8531112587
+---node 1000 sending to node 1000
+node 1000 has score 37.7059795007
+---node 1000 sending to node 1000
+node 1000 has score 38.0889212417
+---node 1000 sending to node 1000
+node 1000 has score 38.4798127399
+---node 1000 sending to node 1000
+node 1000 has score 38.7435707813
+---node 1000 sending to node 1000
+node 1000 has score 39.0108943581
+---node 1000 sending to node 1000
+node 1000 has score 39.28185386
+---node 1000 sending to node 1000
+node 1000 has score 39.5565214704
+---node 1000 sending to node 1000
+node 1000 has score 39.8211866626
+---node 1000 sending to node 1000
+node 1000 has score 40.089442311
+---node 1000 sending to node 1000
+node 1000 has score 40.3613616904
+---node 1000 sending to node 1000
+node 1000 has score 40.637020075
+---node 1000 sending to node 1000
+node 1000 has score 40.9674060774
+---node 1000 sending to node 1000
+node 1000 has score 41.3032276665
+---node 1000 sending to node 1000
+node 1000 has score 41.1258467604
+---node 1000 sending to node 1000
+node 1000 has score 40.9492843219
+---node 1000 sending to node 1000
+node 1000 has score 40.7735478491
+---node 1000 sending to node 1000
+node 1000 has score 40.5986443564
+---node 1000 sending to node 1000
+node 1000 has score 40.5986443564
+---node 1000 sending to node 1000
+(1001, 1005): [('08:13:57.905762', '08:14:25.718449', 27.812686920166016)]
+(1001, 1007): [('08:23:49.672667', '08:24:21.037246', 31.36457896232605)]
+(101, 1004): [('08:47:09.217343', '08:47:52.334520', 43.11717653274536)]
+(101, 1005): [('08:10:06.399806', '08:11:17.684160', 71.28435325622559)]
+(1000, 1001): [('08:22:18.617661', '08:22:50.589327', 31.971665620803833)]
+(1001, 1008): [('08:21:44.597720', '08:25:30.866713', 226.2689926624298)]
+(1001, 1003): [('08:24:10.525610', '08:24:40.688717', 30.163106679916382), ('08:37:46.472226', '08:38:07.448390', 20.976163864135742)]
+(1004, 1009): [('08:44:18.202030', '08:45:01.740206', 43.53817677497864)]
+(1001, 1009): [('08:34:18.695376', '08:35:10.446014', 51.750638008117676)]
+(1000, 1009): [('08:52:31.973629', '08:53:09.639047', 37.665417432785034)]
+(1001, 1002): [('08:35:53.308150', '08:36:27.873255', 34.565104484558105)]
+(1001, 1004): [('08:18:19.828287', '08:18:50.444822', 30.616535186767578), ('08:40:13.323848', '08:40:43.174931', 29.851083755493164)]
+1000 08:00:00.000000 09:08:44.347610
+queueLen: 1000: ([0, 1], 1, 0.2411042944785276, 1)
+1001 08:00:00.000000 08:55:19.974400
+queueLen: 1001: ([0, 1, 0], 1, 0.4668711656441718, 0)
+1002 08:00:00.000000 09:09:20.460679
+queueLen: 1002: ([0], 0, 0.0, 0)
+1003 08:00:00.000000 08:45:28.125834
+queueLen: 1003: ([0], 0, 0.0, 0)
+1004 08:00:00.000000 08:51:34.169391
+queueLen: 1004: ([0, 1, 0], 1, 0.08581560283687943, 0)
+1005 08:00:00.000000 08:44:04.230392
+queueLen: 1005: ([0, 1, 0], 1, 0.0883940620782726, 0)
+1006 08:00:00.000000 09:05:17.059090
+queueLen: 1006: ([0], 0, 0.0, 0)
+1007 08:00:00.000000 09:03:55.913640
+queueLen: 1007: ([0], 0, 0.0, 0)
+1008 08:00:00.000000 09:09:47.474647
+queueLen: 1008: ([0], 0, 0.0, 0)
+1009 08:00:00.000000 08:58:27.639426
+queueLen: 1009: ([0, 1, 0], 1, 0.15336134453781514, 0)
+queueLen: 101: ([1], 1, 1.0, 1)
+msg sent count: [] | []
+msgs:
+101 0 gen: 08:00:00.000000 del: 0 dur: 0 pLen: 6 dlt: 0 path: {101: (101, 08:00:00.000000), 1000: (1009, 08:52:46.637014), 1001: (1005, 08:14:16.234473), 1004: (1001, 08:40:12.306709), 1005: (101, 08:10:11.788875), 1009: (1004, 08:44:23.836504)}
