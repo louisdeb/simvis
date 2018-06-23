@@ -89,7 +89,6 @@ def get_route(nodeid, origintime, start, end):
   d = vincenty(p1,p2).km
   t = timedelta(seconds=(d/v))
 
-  # the point may be before this time
   print "finding point at ttt", time_to_transfer, "for node", nodeid
 
   if time_to_transfer < t:
@@ -144,6 +143,7 @@ m.drawparallels(np.arange(-90.,91.,30.))
 m.drawmeridians(np.arange(-180.,181.,60.))
 m.drawmapboundary(fill_color='aqua')
 
+# regents park area
 xs = [-0.161838,-0.168605,-0.164353,-0.167499,-0.159788,-0.155579,-0.145723,-0.146355,-0.149200,-0.155167,-0.161838]
 ys = [51.541598,51.540245,51.534663,51.530447,51.526168,51.523623,51.525279,51.531048,51.536116,51.539630,51.541598]
 
@@ -153,6 +153,7 @@ parser = argparse.ArgumentParser(description="Simulation Visualiser", formatter_
 parser.add_argument("file", type=argparse.FileType('r'), help="Simulation output to be visualised")
 args = parser.parse_args()
 
+# points of interest locations
 nodepaths = {}
 nodepaths[101] = ['51.525802,-0.148273'] 
 nodepaths[501] = ['51.538216,-0.160815']
@@ -161,6 +162,7 @@ nodepaths[503] = ['51.538300,-0.158339']
 nodepaths[504] = ['51.538338,-0.156965'] 
 nodepaths[505] = ['51.538360,-0.156011'] 
 
+# destination area
 xs = [-0.161500,-0.155266,-0.155266,-0.161500,-0.161500]
 ys = [51.538882,51.538882,51.537620,51.537620,51.538882]
 
@@ -171,10 +173,10 @@ nodevelocities = {}
 
 msgpath = [nodepaths[101][0]]
 
-# Parse and print node paths
 for line in args.file:
   line = line.replace("\n","")
   if "'points'" in line:
+    # now inspecting node paths
     g = line.find("'rental_id'") + 13
     h = line.find(",", g)
     nodeid = line[:h]
@@ -196,6 +198,7 @@ for line in args.file:
     nodevelocities[nodeid] = float(velocity)
 
   elif "101 0 gen" in line and not "---msg is" in line:
+    # now inspecting msg hop output
     k = line.find("path:") + 7
     l = line.find("}", k)
     path = line[:l]
@@ -238,6 +241,7 @@ for line in args.file:
       currentnode = nextnode
       receivetime = transfertime
 
+      # fix parse issue where we keep getting 101 as next node due to msg creation
       if nextnode == "101":
         path = path.replace("101: (101,", "")
 
